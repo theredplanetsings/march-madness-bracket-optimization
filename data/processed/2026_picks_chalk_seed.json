@@ -1,0 +1,77 @@
+{
+  "R64": [
+    "Duke",
+    "Ohio St.",
+    "St. John's",
+    "Kansas",
+    "Louisville",
+    "Michigan St.",
+    "UCLA",
+    "Connecticut",
+    "Michigan",
+    "Georgia",
+    "Texas Tech",
+    "Alabama",
+    "Tennessee",
+    "Virginia",
+    "Kentucky",
+    "Iowa St.",
+    "Florida",
+    "Clemson",
+    "Vanderbilt",
+    "Nebraska",
+    "North Carolina",
+    "Illinois",
+    "Saint Mary's",
+    "Houston",
+    "Arizona",
+    "Villanova",
+    "Wisconsin",
+    "Arkansas",
+    "BYU",
+    "Gonzaga",
+    "Miami FL",
+    "Purdue"
+  ],
+  "R32": [
+    "Duke",
+    "Kansas",
+    "Michigan St.",
+    "Connecticut",
+    "Michigan",
+    "Alabama",
+    "Virginia",
+    "Iowa St.",
+    "Florida",
+    "Nebraska",
+    "Illinois",
+    "Houston",
+    "Arizona",
+    "Arkansas",
+    "Gonzaga",
+    "Purdue"
+  ],
+  "S16": [
+    "Duke",
+    "Connecticut",
+    "Michigan",
+    "Iowa St.",
+    "Florida",
+    "Houston",
+    "Arizona",
+    "Purdue"
+  ],
+  "E8": [
+    "Duke",
+    "Michigan",
+    "Florida",
+    "Arizona"
+  ],
+  "F4": [
+    "Michigan",
+    "Arizona"
+  ],
+  "NCG": [
+    "Arizona"
+  ]
+}

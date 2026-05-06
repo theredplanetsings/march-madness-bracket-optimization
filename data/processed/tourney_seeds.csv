@@ -1,0 +1,1024 @@
+Season,Region,Seed,Team
+2010,east,1,Kentucky
+2010,east,16,East Tennessee St.
+2010,east,8,Texas
+2010,east,9,Wake Forest
+2010,east,5,Temple
+2010,east,12,Cornell
+2010,east,4,Wisconsin
+2010,east,13,Wofford
+2010,east,6,Marquette
+2010,east,11,Washington
+2010,east,3,New Mexico
+2010,east,14,Montana
+2010,east,7,Clemson
+2010,east,10,Missouri
+2010,east,2,West Virginia
+2010,east,15,Morgan St.
+2010,midwest,1,Kansas
+2010,midwest,16,Lehigh
+2010,midwest,8,UNLV
+2010,midwest,9,Northern Iowa
+2010,midwest,5,Michigan St.
+2010,midwest,12,New Mexico St.
+2010,midwest,4,Maryland
+2010,midwest,13,Houston
+2010,midwest,6,Tennessee
+2010,midwest,11,San Diego St.
+2010,midwest,3,Georgetown
+2010,midwest,14,Ohio
+2010,midwest,7,Oklahoma St.
+2010,midwest,10,Georgia Tech
+2010,midwest,2,Ohio St.
+2010,midwest,15,UC Santa Barbara
+2010,south,1,Duke
+2010,south,16,Arkansas Pine Bluff
+2010,south,8,California
+2010,south,9,Louisville
+2010,south,5,Texas A&M
+2010,south,12,Utah St.
+2010,south,4,Purdue
+2010,south,13,Siena
+2010,south,6,Notre Dame
+2010,south,11,Old Dominion
+2010,south,3,Baylor
+2010,south,14,Sam Houston
+2010,south,7,Richmond
+2010,south,10,Saint Mary's
+2010,south,2,Villanova
+2010,south,15,Robert Morris
+2010,west,1,Syracuse
+2010,west,16,Vermont
+2010,west,8,Gonzaga
+2010,west,9,Florida St.
+2010,west,5,Butler
+2010,west,12,UTEP
+2010,west,4,Vanderbilt
+2010,west,13,Murray St.
+2010,west,6,Xavier
+2010,west,11,Minnesota
+2010,west,3,Pittsburgh
+2010,west,14,Oakland
+2010,west,7,BYU
+2010,west,10,Florida
+2010,west,2,Kansas St.
+2010,west,15,North Texas
+2011,east,1,Ohio St.
+2011,east,16,UTSA
+2011,east,8,George Mason
+2011,east,9,Villanova
+2011,east,5,West Virginia
+2011,east,12,Clemson
+2011,east,4,Kentucky
+2011,east,13,Princeton
+2011,east,6,Xavier
+2011,east,11,Marquette
+2011,east,3,Syracuse
+2011,east,14,Indiana St.
+2011,east,7,Washington
+2011,east,10,Georgia
+2011,east,2,North Carolina
+2011,east,15,LIU
+2011,southeast,1,Pittsburgh
+2011,southeast,16,UNC Asheville
+2011,southeast,8,Butler
+2011,southeast,9,Old Dominion
+2011,southeast,5,Kansas St.
+2011,southeast,12,Utah St.
+2011,southeast,4,Wisconsin
+2011,southeast,13,Belmont
+2011,southeast,6,St. John's
+2011,southeast,11,Gonzaga
+2011,southeast,3,BYU
+2011,southeast,14,Wofford
+2011,southeast,7,UCLA
+2011,southeast,10,Michigan St.
+2011,southeast,2,Florida
+2011,southeast,15,UC Santa Barbara
+2011,southwest,1,Kansas
+2011,southwest,16,Boston University
+2011,southwest,8,UNLV
+2011,southwest,9,Illinois
+2011,southwest,5,Vanderbilt
+2011,southwest,12,Richmond
+2011,southwest,4,Louisville
+2011,southwest,13,Morehead St.
+2011,southwest,6,Georgetown
+2011,southwest,11,VCU
+2011,southwest,3,Purdue
+2011,southwest,14,Saint Peter's
+2011,southwest,7,Texas A&M
+2011,southwest,10,Florida St.
+2011,southwest,2,Notre Dame
+2011,southwest,15,Akron
+2011,west,1,Duke
+2011,west,16,Hampton
+2011,west,8,Michigan
+2011,west,9,Tennessee
+2011,west,5,Arizona
+2011,west,12,Memphis
+2011,west,4,Texas
+2011,west,13,Oakland
+2011,west,6,Cincinnati
+2011,west,11,Missouri
+2011,west,3,Connecticut
+2011,west,14,Bucknell
+2011,west,7,Temple
+2011,west,10,Penn St.
+2011,west,2,San Diego St.
+2011,west,15,Northern Colorado
+2012,east,1,Syracuse
+2012,east,16,UNC Asheville
+2012,east,8,Kansas St.
+2012,east,9,Southern Miss
+2012,east,5,Vanderbilt
+2012,east,12,Harvard
+2012,east,4,Wisconsin
+2012,east,13,Montana
+2012,east,6,Cincinnati
+2012,east,11,Texas
+2012,east,3,Florida St.
+2012,east,14,St. Bonaventure
+2012,east,7,Gonzaga
+2012,east,10,West Virginia
+2012,east,2,Ohio St.
+2012,east,15,Loyola MD
+2012,midwest,1,North Carolina
+2012,midwest,16,Vermont
+2012,midwest,8,Creighton
+2012,midwest,9,Alabama
+2012,midwest,5,Temple
+2012,midwest,12,South Florida
+2012,midwest,4,Michigan
+2012,midwest,13,Ohio
+2012,midwest,6,San Diego St.
+2012,midwest,11,N.C. St.
+2012,midwest,3,Georgetown
+2012,midwest,14,Belmont
+2012,midwest,7,Saint Mary's
+2012,midwest,10,Purdue
+2012,midwest,2,Kansas
+2012,midwest,15,Detroit
+2012,south,1,Kentucky
+2012,south,16,Western Kentucky
+2012,south,8,Iowa St.
+2012,south,9,Connecticut
+2012,south,5,Wichita St.
+2012,south,12,VCU
+2012,south,4,Indiana
+2012,south,13,New Mexico St.
+2012,south,6,UNLV
+2012,south,11,Colorado
+2012,south,3,Baylor
+2012,south,14,South Dakota St.
+2012,south,7,Notre Dame
+2012,south,10,Xavier
+2012,south,2,Duke
+2012,south,15,Lehigh
+2012,west,1,Michigan St.
+2012,west,16,LIU
+2012,west,8,Memphis
+2012,west,9,Saint Louis
+2012,west,5,New Mexico
+2012,west,12,Long Beach St.
+2012,west,4,Louisville
+2012,west,13,Davidson
+2012,west,6,Murray St.
+2012,west,11,Colorado St.
+2012,west,3,Marquette
+2012,west,14,BYU
+2012,west,7,Florida
+2012,west,10,Virginia
+2012,west,2,Missouri
+2012,west,15,Norfolk St.
+2013,east,1,Indiana
+2013,east,16,James Madison
+2013,east,8,N.C. St.
+2013,east,9,Temple
+2013,east,5,UNLV
+2013,east,12,California
+2013,east,4,Syracuse
+2013,east,13,Montana
+2013,east,6,Butler
+2013,east,11,Bucknell
+2013,east,3,Marquette
+2013,east,14,Davidson
+2013,east,7,Illinois
+2013,east,10,Colorado
+2013,east,2,Miami FL
+2013,east,15,Pacific
+2013,midwest,1,Louisville
+2013,midwest,16,North Carolina A&T
+2013,midwest,8,Colorado St.
+2013,midwest,9,Missouri
+2013,midwest,5,Oklahoma St.
+2013,midwest,12,Oregon
+2013,midwest,4,Saint Louis
+2013,midwest,13,New Mexico St.
+2013,midwest,6,Memphis
+2013,midwest,11,Saint Mary's
+2013,midwest,3,Michigan St.
+2013,midwest,14,Valparaiso
+2013,midwest,7,Creighton
+2013,midwest,10,Cincinnati
+2013,midwest,2,Duke
+2013,midwest,15,Albany
+2013,south,1,Kansas
+2013,south,16,Western Kentucky
+2013,south,8,North Carolina
+2013,south,9,Villanova
+2013,south,5,VCU
+2013,south,12,Akron
+2013,south,4,Michigan
+2013,south,13,South Dakota St.
+2013,south,6,UCLA
+2013,south,11,Minnesota
+2013,south,3,Florida
+2013,south,14,Northwestern St.
+2013,south,7,San Diego St.
+2013,south,10,Oklahoma
+2013,south,2,Georgetown
+2013,south,15,Florida Gulf Coast
+2013,west,1,Gonzaga
+2013,west,16,Southern
+2013,west,8,Pittsburgh
+2013,west,9,Wichita St.
+2013,west,5,Wisconsin
+2013,west,12,Mississippi
+2013,west,4,Kansas St.
+2013,west,13,La Salle
+2013,west,6,Arizona
+2013,west,11,Belmont
+2013,west,3,New Mexico
+2013,west,14,Harvard
+2013,west,7,Notre Dame
+2013,west,10,Iowa St.
+2013,west,2,Ohio St.
+2013,west,15,Iona
+2014,east,1,Virginia
+2014,east,16,Coastal Carolina
+2014,east,8,Memphis
+2014,east,9,George Washington
+2014,east,5,Cincinnati
+2014,east,12,Harvard
+2014,east,4,Michigan St.
+2014,east,13,Delaware
+2014,east,6,North Carolina
+2014,east,11,Providence
+2014,east,3,Iowa St.
+2014,east,14,North Carolina Central
+2014,east,7,Connecticut
+2014,east,10,Saint Joseph's
+2014,east,2,Villanova
+2014,east,15,Milwaukee
+2014,midwest,1,Wichita St.
+2014,midwest,16,Cal Poly
+2014,midwest,8,Kentucky
+2014,midwest,9,Kansas St.
+2014,midwest,5,Saint Louis
+2014,midwest,12,N.C. St.
+2014,midwest,4,Louisville
+2014,midwest,13,Manhattan
+2014,midwest,6,Massachusetts
+2014,midwest,11,Tennessee
+2014,midwest,3,Duke
+2014,midwest,14,Mercer
+2014,midwest,7,Texas
+2014,midwest,10,Arizona St.
+2014,midwest,2,Michigan
+2014,midwest,15,Wofford
+2014,south,1,Florida
+2014,south,16,Albany
+2014,south,8,Colorado
+2014,south,9,Pittsburgh
+2014,south,5,VCU
+2014,south,12,Stephen F. Austin
+2014,south,4,UCLA
+2014,south,13,Tulsa
+2014,south,6,Ohio St.
+2014,south,11,Dayton
+2014,south,3,Syracuse
+2014,south,14,Western Michigan
+2014,south,7,New Mexico
+2014,south,10,Stanford
+2014,south,2,Kansas
+2014,south,15,Eastern Kentucky
+2014,west,1,Arizona
+2014,west,16,Weber St.
+2014,west,8,Gonzaga
+2014,west,9,Oklahoma St.
+2014,west,5,Oklahoma
+2014,west,12,North Dakota St.
+2014,west,4,San Diego St.
+2014,west,13,New Mexico St.
+2014,west,6,Baylor
+2014,west,11,Nebraska
+2014,west,3,Creighton
+2014,west,14,Louisiana
+2014,west,7,Oregon
+2014,west,10,BYU
+2014,west,2,Wisconsin
+2014,west,15,American
+2015,east,1,Villanova
+2015,east,16,Lafayette
+2015,east,8,N.C. St.
+2015,east,9,LSU
+2015,east,5,Northern Iowa
+2015,east,12,Wyoming
+2015,east,4,Louisville
+2015,east,13,UC Irvine
+2015,east,6,Providence
+2015,east,11,Dayton
+2015,east,3,Oklahoma
+2015,east,14,Albany
+2015,east,7,Michigan St.
+2015,east,10,Georgia
+2015,east,2,Virginia
+2015,east,15,Belmont
+2015,midwest,1,Kentucky
+2015,midwest,16,Hampton
+2015,midwest,8,Cincinnati
+2015,midwest,9,Purdue
+2015,midwest,5,West Virginia
+2015,midwest,12,Buffalo
+2015,midwest,4,Maryland
+2015,midwest,13,Valparaiso
+2015,midwest,6,Butler
+2015,midwest,11,Texas
+2015,midwest,3,Notre Dame
+2015,midwest,14,Northeastern
+2015,midwest,7,Wichita St.
+2015,midwest,10,Indiana
+2015,midwest,2,Kansas
+2015,midwest,15,New Mexico St.
+2015,south,1,Duke
+2015,south,16,Robert Morris
+2015,south,8,San Diego St.
+2015,south,9,St. John's
+2015,south,5,Utah
+2015,south,12,Stephen F. Austin
+2015,south,4,Georgetown
+2015,south,13,Eastern Washington
+2015,south,6,SMU
+2015,south,11,UCLA
+2015,south,3,Iowa St.
+2015,south,14,UAB
+2015,south,7,Iowa
+2015,south,10,Davidson
+2015,south,2,Gonzaga
+2015,south,15,North Dakota St.
+2015,west,1,Wisconsin
+2015,west,16,Coastal Carolina
+2015,west,8,Oregon
+2015,west,9,Oklahoma St.
+2015,west,5,Arkansas
+2015,west,12,Wofford
+2015,west,4,North Carolina
+2015,west,13,Harvard
+2015,west,6,Xavier
+2015,west,11,Mississippi
+2015,west,3,Baylor
+2015,west,14,Georgia St.
+2015,west,7,VCU
+2015,west,10,Ohio St.
+2015,west,2,Arizona
+2015,west,15,Texas Southern
+2016,east,1,North Carolina
+2016,east,16,Florida Gulf Coast
+2016,east,8,USC
+2016,east,9,Providence
+2016,east,5,Indiana
+2016,east,12,Chattanooga
+2016,east,4,Kentucky
+2016,east,13,Stony Brook
+2016,east,6,Notre Dame
+2016,east,11,Michigan
+2016,east,3,West Virginia
+2016,east,14,Stephen F. Austin
+2016,east,7,Wisconsin
+2016,east,10,Pittsburgh
+2016,east,2,Xavier
+2016,east,15,Weber St.
+2016,midwest,1,Virginia
+2016,midwest,16,Hampton
+2016,midwest,8,Texas Tech
+2016,midwest,9,Butler
+2016,midwest,5,Purdue
+2016,midwest,12,Little Rock
+2016,midwest,4,Iowa St.
+2016,midwest,13,Iona
+2016,midwest,6,Seton Hall
+2016,midwest,11,Gonzaga
+2016,midwest,3,Utah
+2016,midwest,14,Fresno St.
+2016,midwest,7,Dayton
+2016,midwest,10,Syracuse
+2016,midwest,2,Michigan St.
+2016,midwest,15,Middle Tennessee
+2016,south,1,Kansas
+2016,south,16,Austin Peay
+2016,south,8,Colorado
+2016,south,9,Connecticut
+2016,south,5,Maryland
+2016,south,12,South Dakota St.
+2016,south,4,California
+2016,south,13,Hawaii
+2016,south,6,Arizona
+2016,south,11,Wichita St.
+2016,south,3,Miami FL
+2016,south,14,Buffalo
+2016,south,7,Iowa
+2016,south,10,Temple
+2016,south,2,Villanova
+2016,south,15,UNC Asheville
+2016,west,1,Oregon
+2016,west,16,Holy Cross
+2016,west,8,Saint Joseph's
+2016,west,9,Cincinnati
+2016,west,5,Baylor
+2016,west,12,Yale
+2016,west,4,Duke
+2016,west,13,UNC Wilmington
+2016,west,6,Texas
+2016,west,11,Northern Iowa
+2016,west,3,Texas A&M
+2016,west,14,Green Bay
+2016,west,7,Oregon St.
+2016,west,10,VCU
+2016,west,2,Oklahoma
+2016,west,15,Cal St. Bakersfield
+2017,east,1,Villanova
+2017,east,16,Mount St. Mary's
+2017,east,8,Wisconsin
+2017,east,9,Virginia Tech
+2017,east,5,Virginia
+2017,east,12,UNC Wilmington
+2017,east,4,Florida
+2017,east,13,East Tennessee St.
+2017,east,6,SMU
+2017,east,11,USC
+2017,east,3,Baylor
+2017,east,14,New Mexico St.
+2017,east,7,South Carolina
+2017,east,10,Marquette
+2017,east,2,Duke
+2017,east,15,Troy
+2017,midwest,1,Kansas
+2017,midwest,16,UC Davis
+2017,midwest,8,Miami FL
+2017,midwest,9,Michigan St.
+2017,midwest,5,Iowa St.
+2017,midwest,12,Nevada
+2017,midwest,4,Purdue
+2017,midwest,13,Vermont
+2017,midwest,6,Creighton
+2017,midwest,11,Rhode Island
+2017,midwest,3,Oregon
+2017,midwest,14,Iona
+2017,midwest,7,Michigan
+2017,midwest,10,Oklahoma St.
+2017,midwest,2,Louisville
+2017,midwest,15,Jacksonville St.
+2017,south,1,North Carolina
+2017,south,16,Texas Southern
+2017,south,8,Arkansas
+2017,south,9,Seton Hall
+2017,south,5,Minnesota
+2017,south,12,Middle Tennessee
+2017,south,4,Butler
+2017,south,13,Winthrop
+2017,south,6,Cincinnati
+2017,south,11,Kansas St.
+2017,south,3,UCLA
+2017,south,14,Kent St.
+2017,south,7,Dayton
+2017,south,10,Wichita St.
+2017,south,2,Kentucky
+2017,south,15,Northern Kentucky
+2017,west,1,Gonzaga
+2017,west,16,South Dakota St.
+2017,west,8,Northwestern
+2017,west,9,Vanderbilt
+2017,west,5,Notre Dame
+2017,west,12,Princeton
+2017,west,4,West Virginia
+2017,west,13,Bucknell
+2017,west,6,Maryland
+2017,west,11,Xavier
+2017,west,3,Florida St.
+2017,west,14,Florida Gulf Coast
+2017,west,7,Saint Mary's
+2017,west,10,VCU
+2017,west,2,Arizona
+2017,west,15,North Dakota
+2018,east,1,Villanova
+2018,east,16,Radford
+2018,east,8,Virginia Tech
+2018,east,9,Alabama
+2018,east,5,West Virginia
+2018,east,12,Murray St.
+2018,east,4,Wichita St.
+2018,east,13,Marshall
+2018,east,6,Florida
+2018,east,11,St. Bonaventure
+2018,east,3,Texas Tech
+2018,east,14,Stephen F. Austin
+2018,east,7,Arkansas
+2018,east,10,Butler
+2018,east,2,Purdue
+2018,east,15,Cal St. Fullerton
+2018,midwest,1,Kansas
+2018,midwest,16,Penn
+2018,midwest,8,Seton Hall
+2018,midwest,9,N.C. St.
+2018,midwest,5,Clemson
+2018,midwest,12,New Mexico St.
+2018,midwest,4,Auburn
+2018,midwest,13,College of Charleston
+2018,midwest,6,TCU
+2018,midwest,11,Syracuse
+2018,midwest,3,Michigan St.
+2018,midwest,14,Bucknell
+2018,midwest,7,Rhode Island
+2018,midwest,10,Oklahoma
+2018,midwest,2,Duke
+2018,midwest,15,Iona
+2018,south,1,Virginia
+2018,south,16,UMBC
+2018,south,8,Creighton
+2018,south,9,Kansas St.
+2018,south,5,Kentucky
+2018,south,12,Davidson
+2018,south,4,Arizona
+2018,south,13,Buffalo
+2018,south,6,Miami FL
+2018,south,11,Loyola Chicago
+2018,south,3,Tennessee
+2018,south,14,Wright St.
+2018,south,7,Nevada
+2018,south,10,Texas
+2018,south,2,Cincinnati
+2018,south,15,Georgia St.
+2018,west,1,Xavier
+2018,west,16,Texas Southern
+2018,west,8,Missouri
+2018,west,9,Florida St.
+2018,west,5,Ohio St.
+2018,west,12,South Dakota St.
+2018,west,4,Gonzaga
+2018,west,13,UNC Greensboro
+2018,west,6,Houston
+2018,west,11,San Diego St.
+2018,west,3,Michigan
+2018,west,14,Montana
+2018,west,7,Texas A&M
+2018,west,10,Providence
+2018,west,2,North Carolina
+2018,west,15,Lipscomb
+2019,east,1,Duke
+2019,east,16,North Dakota St.
+2019,east,8,VCU
+2019,east,9,UCF
+2019,east,5,Mississippi St.
+2019,east,12,Liberty
+2019,east,4,Virginia Tech
+2019,east,13,Saint Louis
+2019,east,6,Maryland
+2019,east,11,Belmont
+2019,east,3,LSU
+2019,east,14,Yale
+2019,east,7,Louisville
+2019,east,10,Minnesota
+2019,east,2,Michigan St.
+2019,east,15,Bradley
+2019,midwest,1,North Carolina
+2019,midwest,16,Iona
+2019,midwest,8,Utah St.
+2019,midwest,9,Washington
+2019,midwest,5,Auburn
+2019,midwest,12,New Mexico St.
+2019,midwest,4,Kansas
+2019,midwest,13,Northeastern
+2019,midwest,6,Iowa St.
+2019,midwest,11,Ohio St.
+2019,midwest,3,Houston
+2019,midwest,14,Georgia St.
+2019,midwest,7,Wofford
+2019,midwest,10,Seton Hall
+2019,midwest,2,Kentucky
+2019,midwest,15,Abilene Christian
+2019,south,1,Virginia
+2019,south,16,Gardner Webb
+2019,south,8,Mississippi
+2019,south,9,Oklahoma
+2019,south,5,Wisconsin
+2019,south,12,Oregon
+2019,south,4,Kansas St.
+2019,south,13,UC Irvine
+2019,south,6,Villanova
+2019,south,11,Saint Mary's
+2019,south,3,Purdue
+2019,south,14,Old Dominion
+2019,south,7,Cincinnati
+2019,south,10,Iowa
+2019,south,2,Tennessee
+2019,south,15,Colgate
+2019,west,1,Gonzaga
+2019,west,16,Fairleigh Dickinson
+2019,west,8,Syracuse
+2019,west,9,Baylor
+2019,west,5,Marquette
+2019,west,12,Murray St.
+2019,west,4,Florida St.
+2019,west,13,Vermont
+2019,west,6,Buffalo
+2019,west,11,Arizona St.
+2019,west,3,Texas Tech
+2019,west,14,Northern Kentucky
+2019,west,7,Nevada
+2019,west,10,Florida
+2019,west,2,Michigan
+2019,west,15,Montana
+2021,east,1,Michigan
+2021,east,16,Texas Southern
+2021,east,8,LSU
+2021,east,9,St. Bonaventure
+2021,east,5,Colorado
+2021,east,12,Georgetown
+2021,east,4,Florida St.
+2021,east,13,UNC Greensboro
+2021,east,6,BYU
+2021,east,11,UCLA
+2021,east,3,Texas
+2021,east,14,Abilene Christian
+2021,east,7,Connecticut
+2021,east,10,Maryland
+2021,east,2,Alabama
+2021,east,15,Iona
+2021,midwest,1,Illinois
+2021,midwest,16,Drexel
+2021,midwest,8,Loyola Chicago
+2021,midwest,9,Georgia Tech
+2021,midwest,5,Tennessee
+2021,midwest,12,Oregon St.
+2021,midwest,4,Oklahoma St.
+2021,midwest,13,Liberty
+2021,midwest,6,San Diego St.
+2021,midwest,11,Syracuse
+2021,midwest,3,West Virginia
+2021,midwest,14,Morehead St.
+2021,midwest,7,Clemson
+2021,midwest,10,Rutgers
+2021,midwest,2,Houston
+2021,midwest,15,Cleveland St.
+2021,south,1,Baylor
+2021,south,16,Hartford
+2021,south,8,North Carolina
+2021,south,9,Wisconsin
+2021,south,5,Villanova
+2021,south,12,Winthrop
+2021,south,4,Purdue
+2021,south,13,North Texas
+2021,south,6,Texas Tech
+2021,south,11,Utah St.
+2021,south,3,Arkansas
+2021,south,14,Colgate
+2021,south,7,Florida
+2021,south,10,Virginia Tech
+2021,south,2,Ohio St.
+2021,south,15,Oral Roberts
+2021,west,1,Gonzaga
+2021,west,16,Norfolk St.
+2021,west,8,Oklahoma
+2021,west,9,Missouri
+2021,west,5,Creighton
+2021,west,12,UC Santa Barbara
+2021,west,4,Virginia
+2021,west,13,Ohio
+2021,west,6,USC
+2021,west,11,Drake
+2021,west,3,Kansas
+2021,west,14,Eastern Washington
+2021,west,2,Iowa
+2021,west,15,Grand Canyon
+2021,west,7,Oregon
+2022,east,1,Baylor
+2022,east,16,Norfolk St.
+2022,east,8,North Carolina
+2022,east,9,Marquette
+2022,east,5,Saint Mary's
+2022,east,12,Indiana
+2022,east,4,UCLA
+2022,east,13,Akron
+2022,east,6,Texas
+2022,east,11,Virginia Tech
+2022,east,3,Purdue
+2022,east,14,Yale
+2022,east,7,Murray St.
+2022,east,10,San Francisco
+2022,east,2,Kentucky
+2022,east,15,Saint Peter's
+2022,midwest,1,Kansas
+2022,midwest,16,Texas Southern
+2022,midwest,8,San Diego St.
+2022,midwest,9,Creighton
+2022,midwest,5,Iowa
+2022,midwest,12,Richmond
+2022,midwest,4,Providence
+2022,midwest,13,South Dakota St.
+2022,midwest,6,LSU
+2022,midwest,11,Iowa St.
+2022,midwest,3,Wisconsin
+2022,midwest,14,Colgate
+2022,midwest,7,USC
+2022,midwest,10,Miami FL
+2022,midwest,2,Auburn
+2022,midwest,15,Jacksonville St.
+2022,south,1,Arizona
+2022,south,16,Wright St.
+2022,south,8,Seton Hall
+2022,south,9,TCU
+2022,south,5,Houston
+2022,south,12,UAB
+2022,south,4,Illinois
+2022,south,13,Chattanooga
+2022,south,6,Colorado St.
+2022,south,11,Michigan
+2022,south,3,Tennessee
+2022,south,14,Longwood
+2022,south,7,Ohio St.
+2022,south,10,Loyola Chicago
+2022,south,2,Villanova
+2022,south,15,Delaware
+2022,west,1,Gonzaga
+2022,west,16,Georgia St.
+2022,west,8,Boise St.
+2022,west,9,Memphis
+2022,west,5,Connecticut
+2022,west,12,New Mexico St.
+2022,west,4,Arkansas
+2022,west,13,Vermont
+2022,west,6,Alabama
+2022,west,11,Notre Dame
+2022,west,3,Texas Tech
+2022,west,14,Montana St.
+2022,west,7,Michigan St.
+2022,west,10,Davidson
+2022,west,2,Duke
+2022,west,15,Cal St. Fullerton
+2023,east,1,Purdue
+2023,east,16,Fairleigh Dickinson
+2023,east,8,Memphis
+2023,east,9,Florida Atlantic
+2023,east,5,Duke
+2023,east,12,Oral Roberts
+2023,east,4,Tennessee
+2023,east,13,Louisiana
+2023,east,6,Kentucky
+2023,east,11,Providence
+2023,east,3,Kansas St.
+2023,east,14,Montana St.
+2023,east,7,Michigan St.
+2023,east,10,USC
+2023,east,2,Marquette
+2023,east,15,Vermont
+2023,midwest,1,Houston
+2023,midwest,16,Northern Kentucky
+2023,midwest,8,Iowa
+2023,midwest,9,Auburn
+2023,midwest,5,Miami FL
+2023,midwest,12,Drake
+2023,midwest,4,Indiana
+2023,midwest,13,Kent St.
+2023,midwest,6,Iowa St.
+2023,midwest,11,Pittsburgh
+2023,midwest,3,Xavier
+2023,midwest,14,Kennesaw St.
+2023,midwest,7,Texas A&M
+2023,midwest,10,Penn St.
+2023,midwest,2,Texas
+2023,midwest,15,Colgate
+2023,south,1,Alabama
+2023,south,16,Texas A&M Corpus Chris
+2023,south,8,Maryland
+2023,south,9,West Virginia
+2023,south,5,San Diego St.
+2023,south,12,College of Charleston
+2023,south,4,Virginia
+2023,south,13,Furman
+2023,south,6,Creighton
+2023,south,11,N.C. St.
+2023,south,3,Baylor
+2023,south,14,UC Santa Barbara
+2023,south,7,Missouri
+2023,south,10,Utah St.
+2023,south,2,Arizona
+2023,south,15,Princeton
+2023,west,1,Kansas
+2023,west,16,Howard
+2023,west,8,Arkansas
+2023,west,9,Illinois
+2023,west,5,Saint Mary's
+2023,west,12,VCU
+2023,west,4,Connecticut
+2023,west,13,Iona
+2023,west,6,TCU
+2023,west,11,Arizona St.
+2023,west,3,Gonzaga
+2023,west,14,Grand Canyon
+2023,west,7,Northwestern
+2023,west,10,Boise St.
+2023,west,2,UCLA
+2023,west,15,UNC Asheville
+2024,east,1,Connecticut
+2024,east,16,Stetson
+2024,east,8,Florida Atlantic
+2024,east,9,Northwestern
+2024,east,5,San Diego St.
+2024,east,12,UAB
+2024,east,4,Auburn
+2024,east,13,Yale
+2024,east,6,BYU
+2024,east,11,Duquesne
+2024,east,3,Illinois
+2024,east,14,Morehead St.
+2024,east,7,Washington St.
+2024,east,10,Drake
+2024,east,2,Iowa St.
+2024,east,15,South Dakota St.
+2024,midwest,1,Purdue
+2024,midwest,16,Grambling St.
+2024,midwest,8,Utah St.
+2024,midwest,9,TCU
+2024,midwest,5,Gonzaga
+2024,midwest,12,McNeese
+2024,midwest,4,Kansas
+2024,midwest,13,Samford
+2024,midwest,6,South Carolina
+2024,midwest,11,Oregon
+2024,midwest,3,Creighton
+2024,midwest,14,Akron
+2024,midwest,7,Texas
+2024,midwest,10,Colorado St.
+2024,midwest,2,Tennessee
+2024,midwest,15,Saint Peter's
+2024,south,1,Houston
+2024,south,16,Longwood
+2024,south,8,Nebraska
+2024,south,9,Texas A&M
+2024,south,5,Wisconsin
+2024,south,12,James Madison
+2024,south,4,Duke
+2024,south,13,Vermont
+2024,south,6,Texas Tech
+2024,south,11,N.C. St.
+2024,south,3,Kentucky
+2024,south,14,Oakland
+2024,south,7,Florida
+2024,south,10,Colorado
+2024,south,2,Marquette
+2024,south,15,Western Kentucky
+2024,west,1,North Carolina
+2024,west,16,Wagner
+2024,west,8,Mississippi St.
+2024,west,9,Michigan St.
+2024,west,5,Saint Mary's
+2024,west,12,Grand Canyon
+2024,west,4,Alabama
+2024,west,13,College of Charleston
+2024,west,6,Clemson
+2024,west,11,New Mexico
+2024,west,3,Baylor
+2024,west,14,Colgate
+2024,west,7,Dayton
+2024,west,10,Nevada
+2024,west,2,Arizona
+2024,west,15,Long Beach St.
+2025,east,1,Duke
+2025,east,16,Mount St. Mary's
+2025,east,8,Mississippi St.
+2025,east,9,Baylor
+2025,east,5,Oregon
+2025,east,12,Liberty
+2025,east,4,Arizona
+2025,east,13,Akron
+2025,east,6,BYU
+2025,east,11,VCU
+2025,east,3,Wisconsin
+2025,east,14,Montana
+2025,east,7,Saint Mary's
+2025,east,10,Vanderbilt
+2025,east,2,Alabama
+2025,east,15,Robert Morris
+2025,midwest,1,Houston
+2025,midwest,16,SIU Edwardsville
+2025,midwest,8,Gonzaga
+2025,midwest,9,Georgia
+2025,midwest,5,Clemson
+2025,midwest,12,McNeese
+2025,midwest,4,Purdue
+2025,midwest,13,High Point
+2025,midwest,6,Illinois
+2025,midwest,11,Xavier
+2025,midwest,3,Kentucky
+2025,midwest,14,Troy
+2025,midwest,7,UCLA
+2025,midwest,10,Utah St.
+2025,midwest,2,Tennessee
+2025,midwest,15,Wofford
+2025,south,1,Auburn
+2025,south,16,Alabama St.
+2025,south,8,Louisville
+2025,south,9,Creighton
+2025,south,5,Michigan
+2025,south,12,UC San Diego
+2025,south,4,Texas A&M
+2025,south,13,Yale
+2025,south,6,Mississippi
+2025,south,11,North Carolina
+2025,south,3,Iowa St.
+2025,south,14,Lipscomb
+2025,south,7,Marquette
+2025,south,10,New Mexico
+2025,south,2,Michigan St.
+2025,south,15,Bryant
+2025,west,1,Florida
+2025,west,16,Norfolk St.
+2025,west,8,Connecticut
+2025,west,9,Oklahoma
+2025,west,5,Memphis
+2025,west,12,Colorado St.
+2025,west,4,Maryland
+2025,west,13,Grand Canyon
+2025,west,6,Missouri
+2025,west,11,Drake
+2025,west,3,Texas Tech
+2025,west,14,UNC Wilmington
+2025,west,7,Kansas
+2025,west,10,Arkansas
+2025,west,2,St. John's
+2025,west,15,Nebraska Omaha
+2026,east,1,Duke
+2026,east,16,Siena
+2026,east,8,Ohio St.
+2026,east,9,TCU
+2026,east,5,St. John's
+2026,east,12,Northern Iowa
+2026,east,4,Kansas
+2026,east,13,Cal Baptist
+2026,east,6,Louisville
+2026,east,11,South Florida
+2026,east,3,Michigan St.
+2026,east,14,North Dakota St.
+2026,east,7,UCLA
+2026,east,10,UCF
+2026,east,2,Connecticut
+2026,east,15,Furman
+2026,midwest,1,Michigan
+2026,midwest,16,Howard
+2026,midwest,8,Georgia
+2026,midwest,9,Saint Louis
+2026,midwest,5,Texas Tech
+2026,midwest,12,Akron
+2026,midwest,4,Alabama
+2026,midwest,13,Hofstra
+2026,midwest,6,Tennessee
+2026,midwest,11,Miami OH
+2026,midwest,3,Virginia
+2026,midwest,14,Wright St.
+2026,midwest,7,Kentucky
+2026,midwest,10,Santa Clara
+2026,midwest,2,Iowa St.
+2026,midwest,15,Tennessee St.
+2026,south,1,Florida
+2026,south,16,Prairie View A&M
+2026,south,8,Clemson
+2026,south,9,Iowa
+2026,south,5,Vanderbilt
+2026,south,12,McNeese
+2026,south,4,Nebraska
+2026,south,13,Troy
+2026,south,6,North Carolina
+2026,south,11,VCU
+2026,south,3,Illinois
+2026,south,14,Penn
+2026,south,7,Saint Mary's
+2026,south,10,Texas A&M
+2026,south,2,Houston
+2026,south,15,Idaho
+2026,west,1,Arizona
+2026,west,16,LIU
+2026,west,8,Villanova
+2026,west,9,Utah St.
+2026,west,5,Wisconsin
+2026,west,12,High Point
+2026,west,4,Arkansas
+2026,west,13,Hawaii
+2026,west,6,BYU
+2026,west,11,Texas
+2026,west,3,Gonzaga
+2026,west,14,Kennesaw St.
+2026,west,7,Miami FL
+2026,west,10,Missouri
+2026,west,2,Purdue
+2026,west,15,Queens

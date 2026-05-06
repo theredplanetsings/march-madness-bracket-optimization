@@ -1,0 +1,1008 @@
+Season,Region,Round,Date,WTeam,WSeed,WScore,LTeam,LSeed,LScore
+2010,east,First Round,2010-03-18,Kentucky,1,100,ETSU,16,71
+2010,east,First Round,2010-03-18,Wake Forest,9,81,Texas,8,80
+2010,east,First Round,2010-03-19,Cornell,12,78,Temple,5,65
+2010,east,First Round,2010-03-19,Wisconsin,4,53,Wofford,13,49
+2010,east,First Round,2010-03-18,Washington,11,80,Marquette,6,78
+2010,east,First Round,2010-03-18,New Mexico,3,62,Montana,14,57
+2010,east,First Round,2010-03-19,Missouri,10,86,Clemson,7,78
+2010,east,First Round,2010-03-19,West Virginia,2,77,Morgan State,15,50
+2010,east,Second Round,2010-03-20,Kentucky,1,90,Wake Forest,9,60
+2010,east,Second Round,2010-03-21,Cornell,12,87,Wisconsin,4,69
+2010,east,Second Round,2010-03-20,Washington,11,82,New Mexico,3,64
+2010,east,Second Round,2010-03-21,West Virginia,2,68,Missouri,10,59
+2010,east,Sweet 16,2010-03-25,Kentucky,1,62,Cornell,12,45
+2010,east,Sweet 16,2010-03-25,West Virginia,2,69,Washington,11,56
+2010,east,Elite 8,2010-03-27,West Virginia,2,73,Kentucky,1,66
+2010,midwest,First Round,2010-03-18,Kansas,1,90,Lehigh,16,74
+2010,midwest,First Round,2010-03-18,Northern Iowa,9,69,UNLV,8,66
+2010,midwest,First Round,2010-03-19,Michigan State,5,70,New Mexico State,12,67
+2010,midwest,First Round,2010-03-19,Maryland,4,89,Houston,13,77
+2010,midwest,First Round,2010-03-18,Tennessee,6,62,San Diego State,11,59
+2010,midwest,First Round,2010-03-18,Ohio,14,97,Georgetown,3,83
+2010,midwest,First Round,2010-03-19,Georgia Tech,10,64,Oklahoma State,7,59
+2010,midwest,First Round,2010-03-19,Ohio State,2,68,UC Santa Barbara,15,51
+2010,midwest,Second Round,2010-03-20,Northern Iowa,9,69,Kansas,1,67
+2010,midwest,Second Round,2010-03-21,Michigan State,5,85,Maryland,4,83
+2010,midwest,Second Round,2010-03-20,Tennessee,6,83,Ohio,14,68
+2010,midwest,Second Round,2010-03-21,Ohio State,2,75,Georgia Tech,10,66
+2010,midwest,Sweet 16,2010-03-26,Michigan State,5,59,Northern Iowa,9,52
+2010,midwest,Sweet 16,2010-03-26,Tennessee,6,76,Ohio State,2,73
+2010,midwest,Elite 8,2010-03-28,Michigan State,5,70,Tennessee,6,69
+2010,south,First Round,2010-03-19,Duke,1,73,Arkansas-Pine Bluff,16,44
+2010,south,First Round,2010-03-19,California,8,77,Louisville,9,62
+2010,south,First Round,2010-03-19,Texas A&M,5,69,Utah State,12,53
+2010,south,First Round,2010-03-19,Purdue,4,72,Siena,13,64
+2010,south,First Round,2010-03-18,Old Dominion,11,51,Notre Dame,6,50
+2010,south,First Round,2010-03-18,Baylor,3,68,Sam Houston,14,59
+2010,south,First Round,2010-03-18,Saint Mary's,10,80,Richmond,7,71
+2010,south,First Round,2010-03-18,Villanova,2,73,Robert Morris,15,70
+2010,south,Second Round,2010-03-21,Duke,1,68,California,8,53
+2010,south,Second Round,2010-03-21,Purdue,4,63,Texas A&M,5,61
+2010,south,Second Round,2010-03-20,Baylor,3,76,Old Dominion,11,68
+2010,south,Second Round,2010-03-20,Saint Mary's,10,75,Villanova,2,68
+2010,south,Sweet 16,2010-03-26,Duke,1,70,Purdue,4,57
+2010,south,Sweet 16,2010-03-26,Baylor,3,72,Saint Mary's,10,49
+2010,south,Elite 8,2010-03-28,Duke,1,78,Baylor,3,71
+2010,west,First Round,2010-03-19,Syracuse,1,79,Vermont,16,56
+2010,west,First Round,2010-03-19,Gonzaga,8,67,Florida State,9,60
+2010,west,First Round,2010-03-18,Butler,5,77,UTEP,12,59
+2010,west,First Round,2010-03-18,Murray State,13,66,Vanderbilt,4,65
+2010,west,First Round,2010-03-19,Xavier,6,65,Minnesota,11,54
+2010,west,First Round,2010-03-19,Pitt,3,89,Oakland,14,66
+2010,west,First Round,2010-03-18,BYU,7,99,Florida,10,92
+2010,west,First Round,2010-03-18,Kansas State,2,82,North Texas,15,62
+2010,west,Second Round,2010-03-21,Syracuse,1,87,Gonzaga,8,65
+2010,west,Second Round,2010-03-20,Butler,5,54,Murray State,13,52
+2010,west,Second Round,2010-03-21,Xavier,6,71,Pitt,3,68
+2010,west,Second Round,2010-03-20,Kansas State,2,84,BYU,7,72
+2010,west,Sweet 16,2010-03-25,Butler,5,63,Syracuse,1,59
+2010,west,Sweet 16,2010-03-25,Kansas State,2,101,Xavier,6,96
+2010,west,Elite 8,2010-03-27,Butler,5,63,Kansas State,2,56
+2010,national,Final Four,2010-04-03,Duke,1,78,West Virginia,2,57
+2010,national,Final Four,2010-04-03,Butler,5,52,Michigan State,5,50
+2010,national,Championship,2010-04-05,Duke,1,61,Butler,5,59
+2011,east,First Round,2011-03-18,Ohio State,1,75,UTSA,16,46
+2011,east,First Round,2011-03-18,George Mason,8,61,Villanova,9,57
+2011,east,First Round,2011-03-17,West Virginia,5,84,Clemson,12,76
+2011,east,First Round,2011-03-17,Kentucky,4,59,Princeton,13,57
+2011,east,First Round,2011-03-18,Marquette,11,66,Xavier,6,55
+2011,east,First Round,2011-03-18,Syracuse,3,77,Indiana State,14,60
+2011,east,First Round,2011-03-18,Washington,7,68,Georgia,10,65
+2011,east,First Round,2011-03-18,UNC,2,102,LIU,15,87
+2011,east,Second Round,2011-03-20,Ohio State,1,98,George Mason,8,66
+2011,east,Second Round,2011-03-19,Kentucky,4,71,West Virginia,5,63
+2011,east,Second Round,2011-03-20,Marquette,11,66,Syracuse,3,62
+2011,east,Second Round,2011-03-20,UNC,2,86,Washington,7,83
+2011,east,Sweet 16,2011-03-25,Kentucky,4,62,Ohio State,1,60
+2011,east,Sweet 16,2011-03-25,UNC,2,81,Marquette,11,63
+2011,east,Elite 8,2011-03-27,Kentucky,4,76,UNC,2,69
+2011,southeast,First Round,2011-03-17,Pitt,1,74,UNC Asheville,16,51
+2011,southeast,First Round,2011-03-17,Butler,8,60,Old Dominion,9,58
+2011,southeast,First Round,2011-03-17,Kansas State,5,73,Utah State,12,68
+2011,southeast,First Round,2011-03-17,Wisconsin,4,72,Belmont,13,58
+2011,southeast,First Round,2011-03-17,Gonzaga,11,86,St. John's (NY),6,71
+2011,southeast,First Round,2011-03-17,BYU,3,74,Wofford,14,66
+2011,southeast,First Round,2011-03-17,UCLA,7,78,Michigan State,10,76
+2011,southeast,First Round,2011-03-17,Florida,2,79,UC Santa Barbara,15,51
+2011,southeast,Second Round,2011-03-19,Butler,8,71,Pitt,1,70
+2011,southeast,Second Round,2011-03-19,Wisconsin,4,70,Kansas State,5,65
+2011,southeast,Second Round,2011-03-19,BYU,3,89,Gonzaga,11,67
+2011,southeast,Second Round,2011-03-19,Florida,2,73,UCLA,7,65
+2011,southeast,Sweet 16,2011-03-24,Butler,8,61,Wisconsin,4,54
+2011,southeast,Sweet 16,2011-03-24,Florida,2,83,BYU,3,74
+2011,southeast,Elite 8,2011-03-26,Butler,8,74,Florida,2,71
+2011,southwest,First Round,2011-03-18,Kansas,1,72,Boston University,16,53
+2011,southwest,First Round,2011-03-18,Illinois,9,73,UNLV,8,62
+2011,southwest,First Round,2011-03-17,Richmond,12,69,Vanderbilt,5,66
+2011,southwest,First Round,2011-03-17,Morehead State,13,62,Louisville,4,61
+2011,southwest,First Round,2011-03-18,VCU,11,74,Georgetown,6,56
+2011,southwest,First Round,2011-03-18,Purdue,3,65,Saint Peter's,14,43
+2011,southwest,First Round,2011-03-18,Florida State,10,57,Texas A&M,7,50
+2011,southwest,First Round,2011-03-18,Notre Dame,2,69,Akron,15,56
+2011,southwest,Second Round,2011-03-20,Kansas,1,73,Illinois,9,59
+2011,southwest,Second Round,2011-03-19,Richmond,12,65,Morehead State,13,48
+2011,southwest,Second Round,2011-03-20,VCU,11,94,Purdue,3,76
+2011,southwest,Second Round,2011-03-20,Florida State,10,71,Notre Dame,2,57
+2011,southwest,Sweet 16,2011-03-25,Kansas,1,77,Richmond,12,57
+2011,southwest,Sweet 16,2011-03-25,VCU,11,72,Florida State,10,71
+2011,southwest,Elite 8,2011-03-27,VCU,11,71,Kansas,1,61
+2011,west,First Round,2011-03-18,Duke,1,87,Hampton,16,45
+2011,west,First Round,2011-03-18,Michigan,8,75,Tennessee,9,45
+2011,west,First Round,2011-03-18,Arizona,5,77,Memphis,12,75
+2011,west,First Round,2011-03-18,Texas,4,85,Oakland,13,81
+2011,west,First Round,2011-03-17,Cincinnati,6,78,Missouri,11,63
+2011,west,First Round,2011-03-17,UConn,3,81,Bucknell,14,52
+2011,west,First Round,2011-03-17,Temple,7,66,Penn State,10,64
+2011,west,First Round,2011-03-17,San Diego State,2,68,Northern Colorado,15,50
+2011,west,Second Round,2011-03-20,Duke,1,73,Michigan,8,71
+2011,west,Second Round,2011-03-20,Arizona,5,70,Texas,4,69
+2011,west,Second Round,2011-03-19,UConn,3,69,Cincinnati,6,58
+2011,west,Second Round,2011-03-19,San Diego State,2,71,Temple,7,64
+2011,west,Sweet 16,2011-03-24,Arizona,5,93,Duke,1,77
+2011,west,Sweet 16,2011-03-24,UConn,3,74,San Diego State,2,67
+2011,west,Elite 8,2011-03-26,UConn,3,65,Arizona,5,63
+2011,national,Final Four,2011-04-02,UConn,3,56,Kentucky,4,55
+2011,national,Final Four,2011-04-02,Butler,8,70,VCU,11,62
+2011,national,Championship,2011-04-04,UConn,3,53,Butler,8,41
+2012,east,First Round,2012-03-15,Syracuse,1,72,UNC Asheville,16,65
+2012,east,First Round,2012-03-15,Kansas State,8,70,Southern Miss,9,64
+2012,east,First Round,2012-03-15,Vanderbilt,5,79,Harvard,12,70
+2012,east,First Round,2012-03-15,Wisconsin,4,73,Montana,13,49
+2012,east,First Round,2012-03-16,Cincinnati,6,65,Texas,11,59
+2012,east,First Round,2012-03-16,Florida State,3,66,St. Bonaventure,14,63
+2012,east,First Round,2012-03-15,Gonzaga,7,77,West Virginia,10,54
+2012,east,First Round,2012-03-15,Ohio State,2,78,Loyola (MD),15,59
+2012,east,Second Round,2012-03-17,Syracuse,1,75,Kansas State,8,59
+2012,east,Second Round,2012-03-17,Wisconsin,4,60,Vanderbilt,5,57
+2012,east,Second Round,2012-03-18,Cincinnati,6,62,Florida State,3,56
+2012,east,Second Round,2012-03-17,Ohio State,2,73,Gonzaga,7,66
+2012,east,Sweet 16,2012-03-22,Syracuse,1,64,Wisconsin,4,63
+2012,east,Sweet 16,2012-03-22,Ohio State,2,81,Cincinnati,6,66
+2012,east,Elite 8,2012-03-24,Ohio State,2,77,Syracuse,1,70
+2012,midwest,First Round,2012-03-16,UNC,1,77,Vermont,16,58
+2012,midwest,First Round,2012-03-16,Creighton,8,58,Alabama,9,57
+2012,midwest,First Round,2012-03-16,South Florida,12,58,Temple,5,44
+2012,midwest,First Round,2012-03-16,Ohio,13,65,Michigan,4,60
+2012,midwest,First Round,2012-03-16,NC State,11,79,San Diego State,6,65
+2012,midwest,First Round,2012-03-16,Georgetown,3,74,Belmont,14,59
+2012,midwest,First Round,2012-03-16,Purdue,10,72,Saint Mary's,7,69
+2012,midwest,First Round,2012-03-16,Kansas,2,65,Detroit Mercy,15,50
+2012,midwest,Second Round,2012-03-18,UNC,1,87,Creighton,8,73
+2012,midwest,Second Round,2012-03-18,Ohio,13,62,South Florida,12,56
+2012,midwest,Second Round,2012-03-18,NC State,11,66,Georgetown,3,63
+2012,midwest,Second Round,2012-03-18,Kansas,2,63,Purdue,10,60
+2012,midwest,Sweet 16,2012-03-23,UNC,1,73,Ohio,13,65
+2012,midwest,Sweet 16,2012-03-23,Kansas,2,60,NC State,11,57
+2012,midwest,Elite 8,2012-03-25,Kansas,2,80,UNC,1,67
+2012,south,First Round,2012-03-15,Kentucky,1,81,Western Kentucky,16,66
+2012,south,First Round,2012-03-15,Iowa State,8,77,UConn,9,64
+2012,south,First Round,2012-03-15,VCU,12,62,Wichita State,5,59
+2012,south,First Round,2012-03-15,Indiana,4,79,New Mexico State,13,66
+2012,south,First Round,2012-03-15,Colorado,11,68,UNLV,6,64
+2012,south,First Round,2012-03-15,Baylor,3,68,South Dakota State,14,60
+2012,south,First Round,2012-03-16,Xavier,10,67,Notre Dame,7,63
+2012,south,First Round,2012-03-16,Lehigh,15,75,Duke,2,70
+2012,south,Second Round,2012-03-17,Kentucky,1,87,Iowa State,8,71
+2012,south,Second Round,2012-03-17,Indiana,4,63,VCU,12,61
+2012,south,Second Round,2012-03-17,Baylor,3,80,Colorado,11,63
+2012,south,Second Round,2012-03-18,Xavier,10,70,Lehigh,15,58
+2012,south,Sweet 16,2012-03-23,Kentucky,1,102,Indiana,4,90
+2012,south,Sweet 16,2012-03-23,Baylor,3,75,Xavier,10,70
+2012,south,Elite 8,2012-03-25,Kentucky,1,82,Baylor,3,70
+2012,west,First Round,2012-03-16,Michigan State,1,89,LIU,16,67
+2012,west,First Round,2012-03-16,Saint Louis,9,61,Memphis,8,54
+2012,west,First Round,2012-03-15,New Mexico,5,75,Long Beach State,12,68
+2012,west,First Round,2012-03-15,Louisville,4,69,Davidson,13,62
+2012,west,First Round,2012-03-15,Murray State,6,58,Colorado State,11,41
+2012,west,First Round,2012-03-15,Marquette,3,88,BYU,14,68
+2012,west,First Round,2012-03-16,Florida,7,71,Virginia,10,45
+2012,west,First Round,2012-03-16,Norfolk State,15,86,Missouri,2,84
+2012,west,Second Round,2012-03-18,Michigan State,1,65,Saint Louis,9,61
+2012,west,Second Round,2012-03-17,Louisville,4,59,New Mexico,5,56
+2012,west,Second Round,2012-03-17,Marquette,3,62,Murray State,6,53
+2012,west,Second Round,2012-03-18,Florida,7,84,Norfolk State,15,50
+2012,west,Sweet 16,2012-03-22,Louisville,4,57,Michigan State,1,44
+2012,west,Sweet 16,2012-03-22,Florida,7,68,Marquette,3,58
+2012,west,Elite 8,2012-03-24,Louisville,4,72,Florida,7,68
+2012,national,Final Four,2012-03-31,Kansas,2,64,Ohio State,2,62
+2012,national,Final Four,2012-03-31,Kentucky,1,69,Louisville,4,61
+2012,national,Championship,2012-04-02,Kentucky,1,67,Kansas,2,59
+2013,east,First Round,2013-03-22,Indiana,1,83,James Madison,16,62
+2013,east,First Round,2013-03-22,Temple,9,76,NC State,8,72
+2013,east,First Round,2013-03-21,California,12,64,UNLV,5,61
+2013,east,First Round,2013-03-21,Syracuse,4,81,Montana,13,34
+2013,east,First Round,2013-03-21,Butler,6,68,Bucknell,11,56
+2013,east,First Round,2013-03-21,Marquette,3,59,Davidson,14,58
+2013,east,First Round,2013-03-22,Illinois,7,57,Colorado,10,49
+2013,east,First Round,2013-03-22,Miami (FL),2,78,Pacific,15,49
+2013,east,Second Round,2013-03-24,Indiana,1,58,Temple,9,52
+2013,east,Second Round,2013-03-23,Syracuse,4,66,California,12,60
+2013,east,Second Round,2013-03-23,Marquette,3,74,Butler,6,72
+2013,east,Second Round,2013-03-24,Miami (FL),2,63,Illinois,7,59
+2013,east,Sweet 16,2013-03-28,Syracuse,4,61,Indiana,1,50
+2013,east,Sweet 16,2013-03-28,Marquette,3,71,Miami (FL),2,61
+2013,east,Elite 8,2013-03-30,Syracuse,4,55,Marquette,3,39
+2013,midwest,First Round,2013-03-21,Louisville,1,79,North Carolina A&T,16,48
+2013,midwest,First Round,2013-03-21,Colorado State,8,84,Missouri,9,72
+2013,midwest,First Round,2013-03-21,Oregon,12,68,Oklahoma State,5,55
+2013,midwest,First Round,2013-03-21,Saint Louis,4,64,New Mexico State,13,44
+2013,midwest,First Round,2013-03-21,Memphis,6,54,Saint Mary's,11,52
+2013,midwest,First Round,2013-03-21,Michigan State,3,65,Valparaiso,14,54
+2013,midwest,First Round,2013-03-22,Creighton,7,67,Cincinnati,10,63
+2013,midwest,First Round,2013-03-22,Duke,2,73,Albany (NY),15,61
+2013,midwest,Second Round,2013-03-23,Louisville,1,82,Colorado State,8,56
+2013,midwest,Second Round,2013-03-23,Oregon,12,74,Saint Louis,4,57
+2013,midwest,Second Round,2013-03-23,Michigan State,3,70,Memphis,6,48
+2013,midwest,Second Round,2013-03-24,Duke,2,66,Creighton,7,50
+2013,midwest,Sweet 16,2013-03-29,Louisville,1,77,Oregon,12,69
+2013,midwest,Sweet 16,2013-03-29,Duke,2,71,Michigan State,3,61
+2013,midwest,Elite 8,2013-03-31,Louisville,1,85,Duke,2,63
+2013,south,First Round,2013-03-22,Kansas,1,64,Western Kentucky,16,57
+2013,south,First Round,2013-03-22,UNC,8,78,Villanova,9,71
+2013,south,First Round,2013-03-21,VCU,5,88,Akron,12,42
+2013,south,First Round,2013-03-21,Michigan,4,71,South Dakota State,13,56
+2013,south,First Round,2013-03-22,Minnesota,11,83,UCLA,6,63
+2013,south,First Round,2013-03-22,Florida,3,79,Northwestern State,14,47
+2013,south,First Round,2013-03-22,San Diego State,7,70,Oklahoma,10,55
+2013,south,First Round,2013-03-22,Florida Gulf Coast,15,78,Georgetown,2,68
+2013,south,Second Round,2013-03-24,Kansas,1,70,UNC,8,58
+2013,south,Second Round,2013-03-23,Michigan,4,78,VCU,5,53
+2013,south,Second Round,2013-03-24,Florida,3,78,Minnesota,11,64
+2013,south,Second Round,2013-03-24,Florida Gulf Coast,15,81,San Diego State,7,71
+2013,south,Sweet 16,2013-03-29,Michigan,4,87,Kansas,1,85
+2013,south,Sweet 16,2013-03-29,Florida,3,62,Florida Gulf Coast,15,50
+2013,south,Elite 8,2013-03-31,Michigan,4,79,Florida,3,59
+2013,west,First Round,2013-03-21,Gonzaga,1,64,Southern,16,58
+2013,west,First Round,2013-03-21,Wichita State,9,73,Pitt,8,55
+2013,west,First Round,2013-03-22,Ole Miss,12,57,Wisconsin,5,46
+2013,west,First Round,2013-03-22,La Salle,13,63,Kansas State,4,61
+2013,west,First Round,2013-03-21,Arizona,6,81,Belmont,11,64
+2013,west,First Round,2013-03-21,Harvard,14,68,New Mexico,3,62
+2013,west,First Round,2013-03-22,Iowa State,10,76,Notre Dame,7,58
+2013,west,First Round,2013-03-22,Ohio State,2,95,Iona,15,70
+2013,west,Second Round,2013-03-23,Wichita State,9,76,Gonzaga,1,70
+2013,west,Second Round,2013-03-24,La Salle,13,76,Ole Miss,12,74
+2013,west,Second Round,2013-03-23,Arizona,6,74,Harvard,14,51
+2013,west,Second Round,2013-03-24,Ohio State,2,78,Iowa State,10,75
+2013,west,Sweet 16,2013-03-28,Wichita State,9,72,La Salle,13,58
+2013,west,Sweet 16,2013-03-28,Ohio State,2,73,Arizona,6,70
+2013,west,Elite 8,2013-03-30,Wichita State,9,70,Ohio State,2,66
+2013,national,Final Four,2013-04-06,Michigan,4,61,Syracuse,4,56
+2013,national,Final Four,2013-04-06,Louisville,1,72,Wichita State,9,68
+2013,national,Championship,2013-04-08,Louisville,1,82,Michigan,4,76
+2014,east,First Round,2014-03-21,Virginia,1,70,Coastal Carolina,16,59
+2014,east,First Round,2014-03-21,Memphis,8,71,George Washington,9,66
+2014,east,First Round,2014-03-20,Harvard,12,61,Cincinnati,5,57
+2014,east,First Round,2014-03-20,Michigan State,4,93,Delaware,13,78
+2014,east,First Round,2014-03-21,UNC,6,79,Providence,11,77
+2014,east,First Round,2014-03-21,Iowa State,3,93,North Carolina Central,14,75
+2014,east,First Round,2014-03-20,UConn,7,89,Saint Joseph's,10,81
+2014,east,First Round,2014-03-20,Villanova,2,73,Milwaukee,15,53
+2014,east,Second Round,2014-03-23,Virginia,1,78,Memphis,8,60
+2014,east,Second Round,2014-03-22,Michigan State,4,80,Harvard,12,73
+2014,east,Second Round,2014-03-23,Iowa State,3,85,UNC,6,83
+2014,east,Second Round,2014-03-22,UConn,7,77,Villanova,2,65
+2014,east,Sweet 16,2014-03-28,Michigan State,4,61,Virginia,1,59
+2014,east,Sweet 16,2014-03-28,UConn,7,81,Iowa State,3,76
+2014,east,Elite 8,2014-03-30,UConn,7,60,Michigan State,4,54
+2014,midwest,First Round,2014-03-21,Wichita State,1,64,Cal Poly,16,37
+2014,midwest,First Round,2014-03-21,Kentucky,8,56,Kansas State,9,49
+2014,midwest,First Round,2014-03-20,Saint Louis,5,83,NC State,12,80
+2014,midwest,First Round,2014-03-20,Louisville,4,71,Manhattan,13,64
+2014,midwest,First Round,2014-03-21,Tennessee,11,86,UMass,6,67
+2014,midwest,First Round,2014-03-21,Mercer,14,78,Duke,3,71
+2014,midwest,First Round,2014-03-20,Texas,7,87,Arizona State,10,85
+2014,midwest,First Round,2014-03-20,Michigan,2,57,Wofford,15,40
+2014,midwest,Second Round,2014-03-23,Kentucky,8,78,Wichita State,1,76
+2014,midwest,Second Round,2014-03-22,Louisville,4,66,Saint Louis,5,51
+2014,midwest,Second Round,2014-03-23,Tennessee,11,83,Mercer,14,63
+2014,midwest,Second Round,2014-03-22,Michigan,2,79,Texas,7,65
+2014,midwest,Sweet 16,2014-03-28,Kentucky,8,74,Louisville,4,69
+2014,midwest,Sweet 16,2014-03-28,Michigan,2,73,Tennessee,11,71
+2014,midwest,Elite 8,2014-03-30,Kentucky,8,75,Michigan,2,72
+2014,south,First Round,2014-03-20,Florida,1,67,Albany (NY),16,55
+2014,south,First Round,2014-03-20,Pitt,9,77,Colorado,8,48
+2014,south,First Round,2014-03-21,Stephen F. Austin,12,77,VCU,5,75
+2014,south,First Round,2014-03-21,UCLA,4,76,Tulsa,13,59
+2014,south,First Round,2014-03-20,Dayton,11,60,Ohio State,6,59
+2014,south,First Round,2014-03-20,Syracuse,3,77,Western Michigan,14,53
+2014,south,First Round,2014-03-21,Stanford,10,58,New Mexico,7,53
+2014,south,First Round,2014-03-21,Kansas,2,80,Eastern Kentucky,15,69
+2014,south,Second Round,2014-03-22,Florida,1,61,Pitt,9,45
+2014,south,Second Round,2014-03-23,UCLA,4,77,Stephen F. Austin,12,60
+2014,south,Second Round,2014-03-22,Dayton,11,55,Syracuse,3,53
+2014,south,Second Round,2014-03-23,Stanford,10,60,Kansas,2,57
+2014,south,Sweet 16,2014-03-27,Florida,1,79,UCLA,4,68
+2014,south,Sweet 16,2014-03-27,Dayton,11,82,Stanford,10,72
+2014,south,Elite 8,2014-03-29,Florida,1,62,Dayton,11,52
+2014,west,First Round,2014-03-21,Arizona,1,68,Weber State,16,59
+2014,west,First Round,2014-03-21,Gonzaga,8,85,Oklahoma State,9,77
+2014,west,First Round,2014-03-20,North Dakota State,12,80,Oklahoma,5,75
+2014,west,First Round,2014-03-20,San Diego State,4,73,New Mexico State,13,69
+2014,west,First Round,2014-03-21,Baylor,6,74,Nebraska,11,60
+2014,west,First Round,2014-03-21,Creighton,3,76,Louisiana,14,66
+2014,west,First Round,2014-03-20,Oregon,7,87,BYU,10,68
+2014,west,First Round,2014-03-20,Wisconsin,2,75,American,15,35
+2014,west,Second Round,2014-03-23,Arizona,1,84,Gonzaga,8,61
+2014,west,Second Round,2014-03-22,San Diego State,4,63,North Dakota State,12,44
+2014,west,Second Round,2014-03-23,Baylor,6,85,Creighton,3,55
+2014,west,Second Round,2014-03-22,Wisconsin,2,85,Oregon,7,77
+2014,west,Sweet 16,2014-03-27,Arizona,1,70,San Diego State,4,64
+2014,west,Sweet 16,2014-03-27,Wisconsin,2,69,Baylor,6,52
+2014,west,Elite 8,2014-03-29,Wisconsin,2,64,Arizona,1,63
+2014,national,Final Four,2014-04-05,UConn,7,63,Florida,1,53
+2014,national,Final Four,2014-04-05,Kentucky,8,74,Wisconsin,2,73
+2014,national,Championship,2014-04-07,UConn,7,60,Kentucky,8,54
+2015,east,First Round,2015-03-19,Villanova,1,93,Lafayette,16,52
+2015,east,First Round,2015-03-19,NC State,8,66,LSU,9,65
+2015,east,First Round,2015-03-20,Northern Iowa,5,71,Wyoming,12,54
+2015,east,First Round,2015-03-20,Louisville,4,57,UC Irvine,13,55
+2015,east,First Round,2015-03-20,Dayton,11,66,Providence,6,53
+2015,east,First Round,2015-03-20,Oklahoma,3,69,Albany (NY),14,60
+2015,east,First Round,2015-03-20,Michigan State,7,70,Georgia,10,63
+2015,east,First Round,2015-03-20,Virginia,2,79,Belmont,15,67
+2015,east,Second Round,2015-03-21,NC State,8,71,Villanova,1,68
+2015,east,Second Round,2015-03-22,Louisville,4,66,Northern Iowa,5,53
+2015,east,Second Round,2015-03-22,Oklahoma,3,72,Dayton,11,66
+2015,east,Second Round,2015-03-22,Michigan State,7,60,Virginia,2,54
+2015,east,Sweet 16,2015-03-27,Louisville,4,75,NC State,8,65
+2015,east,Sweet 16,2015-03-27,Michigan State,7,62,Oklahoma,3,58
+2015,east,Elite 8,2015-03-29,Michigan State,7,76,Louisville,4,70
+2015,midwest,First Round,2015-03-19,Kentucky,1,79,Hampton,16,56
+2015,midwest,First Round,2015-03-19,Cincinnati,8,66,Purdue,9,65
+2015,midwest,First Round,2015-03-20,West Virginia,5,68,Buffalo,12,62
+2015,midwest,First Round,2015-03-20,Maryland,4,65,Valparaiso,13,62
+2015,midwest,First Round,2015-03-19,Butler,6,56,Texas,11,48
+2015,midwest,First Round,2015-03-19,Notre Dame,3,69,Northeastern,14,65
+2015,midwest,First Round,2015-03-20,Wichita State,7,81,Indiana,10,76
+2015,midwest,First Round,2015-03-20,Kansas,2,75,New Mexico State,15,56
+2015,midwest,Second Round,2015-03-21,Kentucky,1,64,Cincinnati,8,51
+2015,midwest,Second Round,2015-03-22,West Virginia,5,69,Maryland,4,59
+2015,midwest,Second Round,2015-03-21,Notre Dame,3,67,Butler,6,64
+2015,midwest,Second Round,2015-03-22,Wichita State,7,78,Kansas,2,65
+2015,midwest,Sweet 16,2015-03-26,Kentucky,1,78,West Virginia,5,39
+2015,midwest,Sweet 16,2015-03-26,Notre Dame,3,81,Wichita State,7,70
+2015,midwest,Elite 8,2015-03-28,Kentucky,1,68,Notre Dame,3,66
+2015,south,First Round,2015-03-20,Duke,1,85,Robert Morris,16,56
+2015,south,First Round,2015-03-20,San Diego State,8,76,St. John's (NY),9,64
+2015,south,First Round,2015-03-19,Utah,5,57,Stephen F. Austin,12,50
+2015,south,First Round,2015-03-19,Georgetown,4,84,Eastern Washington,13,74
+2015,south,First Round,2015-03-19,UCLA,11,60,SMU,6,59
+2015,south,First Round,2015-03-19,UAB,14,60,Iowa State,3,59
+2015,south,First Round,2015-03-20,Iowa,7,83,Davidson,10,52
+2015,south,First Round,2015-03-20,Gonzaga,2,86,North Dakota State,15,76
+2015,south,Second Round,2015-03-22,Duke,1,68,San Diego State,8,49
+2015,south,Second Round,2015-03-21,Utah,5,75,Georgetown,4,64
+2015,south,Second Round,2015-03-21,UCLA,11,92,UAB,14,75
+2015,south,Second Round,2015-03-22,Gonzaga,2,87,Iowa,7,68
+2015,south,Sweet 16,2015-03-27,Duke,1,63,Utah,5,57
+2015,south,Sweet 16,2015-03-27,Gonzaga,2,74,UCLA,11,62
+2015,south,Elite 8,2015-03-29,Duke,1,66,Gonzaga,2,52
+2015,west,First Round,2015-03-20,Wisconsin,1,86,Coastal Carolina,16,72
+2015,west,First Round,2015-03-20,Oregon,8,79,Oklahoma State,9,73
+2015,west,First Round,2015-03-19,Arkansas,5,56,Wofford,12,53
+2015,west,First Round,2015-03-19,UNC,4,67,Harvard,13,65
+2015,west,First Round,2015-03-19,Xavier,6,76,Ole Miss,11,57
+2015,west,First Round,2015-03-19,Georgia State,14,57,Baylor,3,56
+2015,west,First Round,2015-03-19,Ohio State,10,75,VCU,7,72
+2015,west,First Round,2015-03-19,Arizona,2,93,Texas Southern,15,72
+2015,west,Second Round,2015-03-22,Wisconsin,1,72,Oregon,8,65
+2015,west,Second Round,2015-03-21,UNC,4,87,Arkansas,5,78
+2015,west,Second Round,2015-03-21,Xavier,6,75,Georgia State,14,67
+2015,west,Second Round,2015-03-21,Arizona,2,73,Ohio State,10,58
+2015,west,Sweet 16,2015-03-26,Wisconsin,1,79,UNC,4,72
+2015,west,Sweet 16,2015-03-26,Arizona,2,68,Xavier,6,60
+2015,west,Elite 8,2015-03-28,Wisconsin,1,85,Arizona,2,78
+2015,national,Final Four,2015-04-04,Duke,1,81,Michigan State,7,61
+2015,national,Final Four,2015-04-04,Wisconsin,1,71,Kentucky,1,64
+2015,national,Championship,2015-04-06,Duke,1,68,Wisconsin,1,63
+2016,east,First Round,2016-03-17,UNC,1,83,Florida Gulf Coast,16,67
+2016,east,First Round,2016-03-17,Providence,9,70,USC,8,69
+2016,east,First Round,2016-03-17,Indiana,5,99,Chattanooga,12,74
+2016,east,First Round,2016-03-17,Kentucky,4,85,Stony Brook,13,57
+2016,east,First Round,2016-03-18,Notre Dame,6,70,Michigan,11,63
+2016,east,First Round,2016-03-18,Stephen F. Austin,14,70,West Virginia,3,56
+2016,east,First Round,2016-03-18,Wisconsin,7,47,Pitt,10,43
+2016,east,First Round,2016-03-18,Xavier,2,71,Weber State,15,53
+2016,east,Second Round,2016-03-19,UNC,1,85,Providence,9,66
+2016,east,Second Round,2016-03-19,Indiana,5,73,Kentucky,4,67
+2016,east,Second Round,2016-03-20,Notre Dame,6,76,Stephen F. Austin,14,75
+2016,east,Second Round,2016-03-20,Wisconsin,7,66,Xavier,2,63
+2016,east,Sweet 16,2016-03-25,UNC,1,101,Indiana,5,86
+2016,east,Sweet 16,2016-03-25,Notre Dame,6,61,Wisconsin,7,56
+2016,east,Elite 8,2016-03-27,UNC,1,88,Notre Dame,6,74
+2016,midwest,First Round,2016-03-17,Virginia,1,81,Hampton,16,45
+2016,midwest,First Round,2016-03-17,Butler,9,71,Texas Tech,8,61
+2016,midwest,First Round,2016-03-17,Little Rock,12,85,Purdue,5,83
+2016,midwest,First Round,2016-03-17,Iowa State,4,94,Iona,13,81
+2016,midwest,First Round,2016-03-17,Gonzaga,11,68,Seton Hall,6,52
+2016,midwest,First Round,2016-03-17,Utah,3,80,Fresno State,14,69
+2016,midwest,First Round,2016-03-18,Syracuse,10,70,Dayton,7,51
+2016,midwest,First Round,2016-03-18,Middle Tennessee,15,90,Michigan State,2,81
+2016,midwest,Second Round,2016-03-19,Virginia,1,77,Butler,9,69
+2016,midwest,Second Round,2016-03-19,Iowa State,4,78,Little Rock,12,61
+2016,midwest,Second Round,2016-03-19,Gonzaga,11,82,Utah,3,59
+2016,midwest,Second Round,2016-03-20,Syracuse,10,75,Middle Tennessee,15,50
+2016,midwest,Sweet 16,2016-03-25,Virginia,1,84,Iowa State,4,71
+2016,midwest,Sweet 16,2016-03-25,Syracuse,10,63,Gonzaga,11,60
+2016,midwest,Elite 8,2016-03-27,Syracuse,10,68,Virginia,1,62
+2016,south,First Round,2016-03-17,Kansas,1,105,Austin Peay,16,79
+2016,south,First Round,2016-03-17,UConn,9,74,Colorado,8,67
+2016,south,First Round,2016-03-18,Maryland,5,79,South Dakota State,12,74
+2016,south,First Round,2016-03-18,Hawaii,13,77,California,4,66
+2016,south,First Round,2016-03-17,Wichita State,11,65,Arizona,6,55
+2016,south,First Round,2016-03-17,Miami (FL),3,79,Buffalo,14,72
+2016,south,First Round,2016-03-18,Iowa,7,72,Temple,10,70
+2016,south,First Round,2016-03-18,Villanova,2,86,UNC Asheville,15,56
+2016,south,Second Round,2016-03-19,Kansas,1,73,UConn,9,61
+2016,south,Second Round,2016-03-20,Maryland,5,73,Hawaii,13,60
+2016,south,Second Round,2016-03-19,Miami (FL),3,65,Wichita State,11,57
+2016,south,Second Round,2016-03-20,Villanova,2,87,Iowa,7,68
+2016,south,Sweet 16,2016-03-24,Kansas,1,79,Maryland,5,63
+2016,south,Sweet 16,2016-03-24,Villanova,2,92,Miami (FL),3,69
+2016,south,Elite 8,2016-03-26,Villanova,2,64,Kansas,1,59
+2016,west,First Round,2016-03-18,Oregon,1,91,Holy Cross,16,52
+2016,west,First Round,2016-03-18,Saint Joseph's,8,78,Cincinnati,9,76
+2016,west,First Round,2016-03-17,Yale,12,79,Baylor,5,75
+2016,west,First Round,2016-03-17,Duke,4,93,UNC Wilmington,13,85
+2016,west,First Round,2016-03-18,Northern Iowa,11,75,Texas,6,72
+2016,west,First Round,2016-03-18,Texas A&M,3,92,Green Bay,14,65
+2016,west,First Round,2016-03-18,VCU,10,75,Oregon State,7,67
+2016,west,First Round,2016-03-18,Oklahoma,2,82,Cal State Bakersfield,15,68
+2016,west,Second Round,2016-03-20,Oregon,1,69,Saint Joseph's,8,64
+2016,west,Second Round,2016-03-19,Duke,4,71,Yale,12,64
+2016,west,Second Round,2016-03-20,Texas A&M,3,92,Northern Iowa,11,88
+2016,west,Second Round,2016-03-20,Oklahoma,2,85,VCU,10,81
+2016,west,Sweet 16,2016-03-24,Oregon,1,82,Duke,4,68
+2016,west,Sweet 16,2016-03-24,Oklahoma,2,77,Texas A&M,3,63
+2016,west,Elite 8,2016-03-26,Oklahoma,2,80,Oregon,1,68
+2016,national,Final Four,2016-04-02,UNC,1,83,Syracuse,10,66
+2016,national,Final Four,2016-04-02,Villanova,2,95,Oklahoma,2,51
+2016,national,Championship,2016-04-04,Villanova,2,77,UNC,1,74
+2017,east,First Round,2017-03-16,Villanova,1,76,Mount St. Mary's,16,56
+2017,east,First Round,2017-03-16,Wisconsin,8,84,Virginia Tech,9,74
+2017,east,First Round,2017-03-16,Virginia,5,76,UNC Wilmington,12,71
+2017,east,First Round,2017-03-16,Florida,4,80,ETSU,13,65
+2017,east,First Round,2017-03-17,USC,11,66,SMU,6,65
+2017,east,First Round,2017-03-17,Baylor,3,91,New Mexico State,14,73
+2017,east,First Round,2017-03-17,South Carolina,7,93,Marquette,10,73
+2017,east,First Round,2017-03-17,Duke,2,87,Troy,15,65
+2017,east,Second Round,2017-03-18,Wisconsin,8,65,Villanova,1,62
+2017,east,Second Round,2017-03-18,Florida,4,65,Virginia,5,39
+2017,east,Second Round,2017-03-19,Baylor,3,82,USC,11,78
+2017,east,Second Round,2017-03-19,South Carolina,7,88,Duke,2,81
+2017,east,Sweet 16,2017-03-24,Florida,4,84,Wisconsin,8,83
+2017,east,Sweet 16,2017-03-24,South Carolina,7,70,Baylor,3,50
+2017,east,Elite 8,2017-03-26,South Carolina,7,77,Florida,4,70
+2017,midwest,First Round,2017-03-17,Kansas,1,100,UC Davis,16,62
+2017,midwest,First Round,2017-03-17,Michigan State,9,78,Miami (FL),8,58
+2017,midwest,First Round,2017-03-16,Iowa State,5,84,Nevada,12,73
+2017,midwest,First Round,2017-03-16,Purdue,4,80,Vermont,13,70
+2017,midwest,First Round,2017-03-17,Rhode Island,11,84,Creighton,6,72
+2017,midwest,First Round,2017-03-17,Oregon,3,93,Iona,14,77
+2017,midwest,First Round,2017-03-17,Michigan,7,92,Oklahoma State,10,91
+2017,midwest,First Round,2017-03-17,Louisville,2,78,Jacksonville State,15,63
+2017,midwest,Second Round,2017-03-19,Kansas,1,90,Michigan State,9,70
+2017,midwest,Second Round,2017-03-18,Purdue,4,80,Iowa State,5,76
+2017,midwest,Second Round,2017-03-19,Oregon,3,75,Rhode Island,11,72
+2017,midwest,Second Round,2017-03-19,Michigan,7,73,Louisville,2,69
+2017,midwest,Sweet 16,2017-03-23,Kansas,1,98,Purdue,4,66
+2017,midwest,Sweet 16,2017-03-23,Oregon,3,69,Michigan,7,68
+2017,midwest,Elite 8,2017-03-25,Oregon,3,74,Kansas,1,60
+2017,south,First Round,2017-03-17,UNC,1,103,Texas Southern,16,64
+2017,south,First Round,2017-03-17,Arkansas,8,77,Seton Hall,9,71
+2017,south,First Round,2017-03-16,Middle Tennessee,12,81,Minnesota,5,72
+2017,south,First Round,2017-03-16,Butler,4,76,Winthrop,13,64
+2017,south,First Round,2017-03-17,Cincinnati,6,75,Kansas State,11,61
+2017,south,First Round,2017-03-17,UCLA,3,97,Kent State,14,80
+2017,south,First Round,2017-03-17,Wichita State,10,64,Dayton,7,58
+2017,south,First Round,2017-03-17,Kentucky,2,79,Northern Kentucky,15,70
+2017,south,Second Round,2017-03-19,UNC,1,72,Arkansas,8,65
+2017,south,Second Round,2017-03-18,Butler,4,74,Middle Tennessee,12,65
+2017,south,Second Round,2017-03-19,UCLA,3,79,Cincinnati,6,67
+2017,south,Second Round,2017-03-19,Kentucky,2,65,Wichita State,10,62
+2017,south,Sweet 16,2017-03-24,UNC,1,92,Butler,4,80
+2017,south,Sweet 16,2017-03-24,Kentucky,2,86,UCLA,3,75
+2017,south,Elite 8,2017-03-26,UNC,1,75,Kentucky,2,73
+2017,west,First Round,2017-03-16,Gonzaga,1,66,South Dakota State,16,46
+2017,west,First Round,2017-03-16,Northwestern,8,68,Vanderbilt,9,66
+2017,west,First Round,2017-03-16,Notre Dame,5,60,Princeton,12,58
+2017,west,First Round,2017-03-16,West Virginia,4,86,Bucknell,13,80
+2017,west,First Round,2017-03-16,Xavier,11,76,Maryland,6,65
+2017,west,First Round,2017-03-16,Florida State,3,86,Florida Gulf Coast,14,80
+2017,west,First Round,2017-03-16,Saint Mary's,7,85,VCU,10,77
+2017,west,First Round,2017-03-16,Arizona,2,100,North Dakota,15,82
+2017,west,Second Round,2017-03-18,Gonzaga,1,79,Northwestern,8,73
+2017,west,Second Round,2017-03-18,West Virginia,4,83,Notre Dame,5,71
+2017,west,Second Round,2017-03-18,Xavier,11,91,Florida State,3,66
+2017,west,Second Round,2017-03-18,Arizona,2,69,Saint Mary's,7,60
+2017,west,Sweet 16,2017-03-23,Gonzaga,1,61,West Virginia,4,58
+2017,west,Sweet 16,2017-03-23,Xavier,11,73,Arizona,2,71
+2017,west,Elite 8,2017-03-25,Gonzaga,1,83,Xavier,11,59
+2017,national,Final Four,2017-04-01,Gonzaga,1,77,South Carolina,7,73
+2017,national,Final Four,2017-04-01,UNC,1,77,Oregon,3,76
+2017,national,Championship,2017-04-03,UNC,1,71,Gonzaga,1,65
+2018,east,First Round,2018-03-15,Villanova,1,87,Radford,16,61
+2018,east,First Round,2018-03-15,Alabama,9,86,Virginia Tech,8,83
+2018,east,First Round,2018-03-16,West Virginia,5,85,Murray State,12,68
+2018,east,First Round,2018-03-16,Marshall,13,81,Wichita State,4,75
+2018,east,First Round,2018-03-15,Florida,6,77,St. Bonaventure,11,62
+2018,east,First Round,2018-03-15,Texas Tech,3,70,Stephen F. Austin,14,60
+2018,east,First Round,2018-03-16,Butler,10,79,Arkansas,7,62
+2018,east,First Round,2018-03-16,Purdue,2,74,Cal State Fullerton,15,48
+2018,east,Second Round,2018-03-17,Villanova,1,81,Alabama,9,58
+2018,east,Second Round,2018-03-18,West Virginia,5,94,Marshall,13,71
+2018,east,Second Round,2018-03-17,Texas Tech,3,69,Florida,6,66
+2018,east,Second Round,2018-03-18,Purdue,2,76,Butler,10,73
+2018,east,Sweet 16,2018-03-23,Villanova,1,90,West Virginia,5,78
+2018,east,Sweet 16,2018-03-23,Texas Tech,3,78,Purdue,2,65
+2018,east,Elite 8,2018-03-25,Villanova,1,71,Texas Tech,3,59
+2018,midwest,First Round,2018-03-15,Kansas,1,76,Penn,16,60
+2018,midwest,First Round,2018-03-15,Seton Hall,8,94,NC State,9,83
+2018,midwest,First Round,2018-03-16,Clemson,5,79,New Mexico State,12,68
+2018,midwest,First Round,2018-03-16,Auburn,4,62,College of Charleston,13,58
+2018,midwest,First Round,2018-03-16,Syracuse,11,57,TCU,6,52
+2018,midwest,First Round,2018-03-16,Michigan State,3,82,Bucknell,14,78
+2018,midwest,First Round,2018-03-15,Rhode Island,7,83,Oklahoma,10,78
+2018,midwest,First Round,2018-03-15,Duke,2,89,Iona,15,67
+2018,midwest,Second Round,2018-03-17,Kansas,1,83,Seton Hall,8,79
+2018,midwest,Second Round,2018-03-18,Clemson,5,84,Auburn,4,53
+2018,midwest,Second Round,2018-03-18,Syracuse,11,55,Michigan State,3,53
+2018,midwest,Second Round,2018-03-17,Duke,2,87,Rhode Island,7,62
+2018,midwest,Sweet 16,2018-03-23,Kansas,1,80,Clemson,5,76
+2018,midwest,Sweet 16,2018-03-23,Duke,2,69,Syracuse,11,65
+2018,midwest,Elite 8,2018-03-25,Kansas,1,85,Duke,2,81
+2018,south,First Round,2018-03-16,UMBC,16,74,Virginia,1,54
+2018,south,First Round,2018-03-16,Kansas State,9,69,Creighton,8,59
+2018,south,First Round,2018-03-15,Kentucky,5,78,Davidson,12,73
+2018,south,First Round,2018-03-15,Buffalo,13,89,Arizona,4,68
+2018,south,First Round,2018-03-15,Loyola (IL),11,64,Miami (FL),6,62
+2018,south,First Round,2018-03-15,Tennessee,3,73,Wright State,14,47
+2018,south,First Round,2018-03-16,Nevada,7,87,Texas,10,83
+2018,south,First Round,2018-03-16,Cincinnati,2,68,Georgia State,15,53
+2018,south,Second Round,2018-03-18,Kansas State,9,50,UMBC,16,43
+2018,south,Second Round,2018-03-17,Kentucky,5,95,Buffalo,13,75
+2018,south,Second Round,2018-03-17,Loyola (IL),11,63,Tennessee,3,62
+2018,south,Second Round,2018-03-18,Nevada,7,75,Cincinnati,2,73
+2018,south,Sweet 16,2018-03-22,Kansas State,9,61,Kentucky,5,58
+2018,south,Sweet 16,2018-03-22,Loyola (IL),11,69,Nevada,7,68
+2018,south,Elite 8,2018-03-24,Loyola (IL),11,78,Kansas State,9,62
+2018,west,First Round,2018-03-16,Xavier,1,102,Texas Southern,16,83
+2018,west,First Round,2018-03-16,Florida State,9,67,Missouri,8,54
+2018,west,First Round,2018-03-15,Ohio State,5,81,South Dakota State,12,73
+2018,west,First Round,2018-03-15,Gonzaga,4,68,UNC Greensboro,13,64
+2018,west,First Round,2018-03-15,Houston,6,67,San Diego State,11,65
+2018,west,First Round,2018-03-15,Michigan,3,61,Montana,14,47
+2018,west,First Round,2018-03-16,Texas A&M,7,73,Providence,10,69
+2018,west,First Round,2018-03-16,UNC,2,84,Lipscomb,15,66
+2018,west,Second Round,2018-03-18,Florida State,9,75,Xavier,1,70
+2018,west,Second Round,2018-03-17,Gonzaga,4,90,Ohio State,5,84
+2018,west,Second Round,2018-03-17,Michigan,3,64,Houston,6,63
+2018,west,Second Round,2018-03-18,Texas A&M,7,86,UNC,2,65
+2018,west,Sweet 16,2018-03-22,Florida State,9,75,Gonzaga,4,60
+2018,west,Sweet 16,2018-03-22,Michigan,3,99,Texas A&M,7,72
+2018,west,Elite 8,2018-03-24,Michigan,3,58,Florida State,9,54
+2018,national,Final Four,2018-03-31,Villanova,1,95,Kansas,1,79
+2018,national,Final Four,2018-03-31,Michigan,3,69,Loyola (IL),11,57
+2018,national,Championship,2018-04-02,Villanova,1,79,Michigan,3,62
+2019,east,First Round,2019-03-22,Duke,1,85,North Dakota State,16,62
+2019,east,First Round,2019-03-22,UCF,9,73,VCU,8,58
+2019,east,First Round,2019-03-22,Liberty,12,80,Mississippi State,5,76
+2019,east,First Round,2019-03-22,Virginia Tech,4,66,Saint Louis,13,52
+2019,east,First Round,2019-03-21,Maryland,6,79,Belmont,11,77
+2019,east,First Round,2019-03-21,LSU,3,79,Yale,14,74
+2019,east,First Round,2019-03-21,Minnesota,10,86,Louisville,7,76
+2019,east,First Round,2019-03-21,Michigan State,2,76,Bradley,15,65
+2019,east,Second Round,2019-03-24,Duke,1,77,UCF,9,76
+2019,east,Second Round,2019-03-24,Virginia Tech,4,67,Liberty,12,58
+2019,east,Second Round,2019-03-23,LSU,3,69,Maryland,6,67
+2019,east,Second Round,2019-03-23,Michigan State,2,70,Minnesota,10,50
+2019,east,Sweet 16,2019-03-29,Duke,1,75,Virginia Tech,4,73
+2019,east,Sweet 16,2019-03-29,Michigan State,2,80,LSU,3,63
+2019,east,Elite 8,2019-03-31,Michigan State,2,68,Duke,1,67
+2019,midwest,First Round,2019-03-22,UNC,1,88,Iona,16,73
+2019,midwest,First Round,2019-03-22,Washington,9,78,Utah State,8,61
+2019,midwest,First Round,2019-03-21,Auburn,5,78,New Mexico State,12,77
+2019,midwest,First Round,2019-03-21,Kansas,4,87,Northeastern,13,53
+2019,midwest,First Round,2019-03-22,Ohio State,11,62,Iowa State,6,59
+2019,midwest,First Round,2019-03-22,Houston,3,84,Georgia State,14,55
+2019,midwest,First Round,2019-03-21,Wofford,7,84,Seton Hall,10,68
+2019,midwest,First Round,2019-03-21,Kentucky,2,79,Abilene Christian,15,44
+2019,midwest,Second Round,2019-03-24,UNC,1,81,Washington,9,59
+2019,midwest,Second Round,2019-03-23,Auburn,5,89,Kansas,4,75
+2019,midwest,Second Round,2019-03-24,Houston,3,74,Ohio State,11,59
+2019,midwest,Second Round,2019-03-23,Kentucky,2,62,Wofford,7,56
+2019,midwest,Sweet 16,2019-03-29,Auburn,5,97,UNC,1,80
+2019,midwest,Sweet 16,2019-03-29,Kentucky,2,62,Houston,3,58
+2019,midwest,Elite 8,2019-03-31,Auburn,5,77,Kentucky,2,71
+2019,south,First Round,2019-03-22,Virginia,1,71,Gardner-Webb,16,56
+2019,south,First Round,2019-03-22,Oklahoma,9,95,Ole Miss,8,72
+2019,south,First Round,2019-03-22,Oregon,12,72,Wisconsin,5,54
+2019,south,First Round,2019-03-22,UC Irvine,13,70,Kansas State,4,64
+2019,south,First Round,2019-03-21,Villanova,6,61,Saint Mary's,11,57
+2019,south,First Round,2019-03-21,Purdue,3,61,Old Dominion,14,48
+2019,south,First Round,2019-03-22,Iowa,10,79,Cincinnati,7,72
+2019,south,First Round,2019-03-22,Tennessee,2,77,Colgate,15,70
+2019,south,Second Round,2019-03-24,Virginia,1,63,Oklahoma,9,51
+2019,south,Second Round,2019-03-24,Oregon,12,73,UC Irvine,13,54
+2019,south,Second Round,2019-03-23,Purdue,3,87,Villanova,6,61
+2019,south,Second Round,2019-03-24,Tennessee,2,83,Iowa,10,77
+2019,south,Sweet 16,2019-03-28,Virginia,1,53,Oregon,12,49
+2019,south,Sweet 16,2019-03-28,Purdue,3,99,Tennessee,2,94
+2019,south,Elite 8,2019-03-30,Virginia,1,80,Purdue,3,75
+2019,west,First Round,2019-03-21,Gonzaga,1,87,FDU,16,49
+2019,west,First Round,2019-03-21,Baylor,9,78,Syracuse,8,69
+2019,west,First Round,2019-03-21,Murray State,12,83,Marquette,5,64
+2019,west,First Round,2019-03-21,Florida State,4,76,Vermont,13,69
+2019,west,First Round,2019-03-22,Buffalo,6,91,Arizona State,11,74
+2019,west,First Round,2019-03-22,Texas Tech,3,72,Northern Kentucky,14,57
+2019,west,First Round,2019-03-21,Florida,10,70,Nevada,7,61
+2019,west,First Round,2019-03-21,Michigan,2,74,Montana,15,55
+2019,west,Second Round,2019-03-23,Gonzaga,1,83,Baylor,9,71
+2019,west,Second Round,2019-03-23,Florida State,4,90,Murray State,12,62
+2019,west,Second Round,2019-03-24,Texas Tech,3,78,Buffalo,6,58
+2019,west,Second Round,2019-03-23,Michigan,2,64,Florida,10,49
+2019,west,Sweet 16,2019-03-28,Gonzaga,1,72,Florida State,4,58
+2019,west,Sweet 16,2019-03-28,Texas Tech,3,63,Michigan,2,44
+2019,west,Elite 8,2019-03-30,Texas Tech,3,75,Gonzaga,1,69
+2019,national,Final Four,2019-04-06,Texas Tech,3,61,Michigan State,2,51
+2019,national,Final Four,2019-04-06,Virginia,1,63,Auburn,5,62
+2019,national,Championship,2019-04-08,Virginia,1,85,Texas Tech,3,77
+2021,east,First Round,2021-03-20,Michigan,1,82,Texas Southern,16,66
+2021,east,First Round,2021-03-20,LSU,8,76,St. Bonaventure,9,61
+2021,east,First Round,2021-03-20,Colorado,5,96,Georgetown,12,73
+2021,east,First Round,2021-03-20,Florida State,4,64,UNC Greensboro,13,54
+2021,east,First Round,2021-03-20,UCLA,11,73,BYU,6,62
+2021,east,First Round,2021-03-20,Abilene Christian,14,53,Texas,3,52
+2021,east,First Round,2021-03-20,Maryland,10,63,UConn,7,54
+2021,east,First Round,2021-03-20,Alabama,2,68,Iona,15,55
+2021,east,Second Round,2021-03-22,Michigan,1,86,LSU,8,78
+2021,east,Second Round,2021-03-22,Florida State,4,71,Colorado,5,53
+2021,east,Second Round,2021-03-22,UCLA,11,67,Abilene Christian,14,47
+2021,east,Second Round,2021-03-22,Alabama,2,96,Maryland,10,77
+2021,east,Sweet 16,2021-03-28,Michigan,1,76,Florida State,4,58
+2021,east,Sweet 16,2021-03-28,UCLA,11,88,Alabama,2,78
+2021,east,Elite 8,2021-03-30,UCLA,11,51,Michigan,1,49
+2021,midwest,First Round,2021-03-19,Illinois,1,78,Drexel,16,49
+2021,midwest,First Round,2021-03-19,Loyola (IL),8,71,Georgia Tech,9,60
+2021,midwest,First Round,2021-03-19,Oregon State,12,70,Tennessee,5,56
+2021,midwest,First Round,2021-03-19,Oklahoma State,4,69,Liberty,13,60
+2021,midwest,First Round,2021-03-19,Syracuse,11,78,San Diego State,6,62
+2021,midwest,First Round,2021-03-19,West Virginia,3,84,Morehead State,14,67
+2021,midwest,First Round,2021-03-19,Rutgers,10,60,Clemson,7,56
+2021,midwest,First Round,2021-03-19,Houston,2,87,Cleveland State,15,56
+2021,midwest,Second Round,2021-03-21,Loyola (IL),8,71,Illinois,1,58
+2021,midwest,Second Round,2021-03-21,Oregon State,12,80,Oklahoma State,4,70
+2021,midwest,Second Round,2021-03-21,Syracuse,11,75,West Virginia,3,72
+2021,midwest,Second Round,2021-03-21,Houston,2,63,Rutgers,10,60
+2021,midwest,Sweet 16,2021-03-27,Oregon State,12,65,Loyola (IL),8,58
+2021,midwest,Sweet 16,2021-03-27,Houston,2,62,Syracuse,11,46
+2021,midwest,Elite 8,2021-03-29,Houston,2,67,Oregon State,12,61
+2021,south,First Round,2021-03-19,Baylor,1,79,Hartford,16,55
+2021,south,First Round,2021-03-19,Wisconsin,9,85,UNC,8,62
+2021,south,First Round,2021-03-19,Villanova,5,73,Winthrop,12,63
+2021,south,First Round,2021-03-19,North Texas,13,78,Purdue,4,69
+2021,south,First Round,2021-03-19,Texas Tech,6,65,Utah State,11,53
+2021,south,First Round,2021-03-19,Arkansas,3,85,Colgate,14,68
+2021,south,First Round,2021-03-19,Florida,7,75,Virginia Tech,10,70
+2021,south,First Round,2021-03-19,Oral Roberts,15,75,Ohio State,2,72
+2021,south,Second Round,2021-03-21,Baylor,1,76,Wisconsin,9,63
+2021,south,Second Round,2021-03-21,Villanova,5,84,North Texas,13,61
+2021,south,Second Round,2021-03-21,Arkansas,3,68,Texas Tech,6,66
+2021,south,Second Round,2021-03-21,Oral Roberts,15,81,Florida,7,78
+2021,south,Sweet 16,2021-03-27,Baylor,1,62,Villanova,5,51
+2021,south,Sweet 16,2021-03-27,Arkansas,3,72,Oral Roberts,15,70
+2021,south,Elite 8,2021-03-29,Baylor,1,81,Arkansas,3,72
+2021,west,First Round,2021-03-20,Gonzaga,1,98,Norfolk State,16,55
+2021,west,First Round,2021-03-20,Oklahoma,8,72,Missouri,9,68
+2021,west,First Round,2021-03-20,Creighton,5,63,UC Santa Barbara,12,62
+2021,west,First Round,2021-03-20,Ohio,13,62,Virginia,4,58
+2021,west,First Round,2021-03-20,USC,6,72,Drake,11,56
+2021,west,First Round,2021-03-20,Kansas,3,93,Eastern Washington,14,84
+2021,west,First Round,2021-03-20,Iowa,2,86,Grand Canyon,15,74
+2021,west,Second Round,2021-03-22,Gonzaga,1,87,Oklahoma,8,71
+2021,west,Second Round,2021-03-22,Creighton,5,72,Ohio,13,58
+2021,west,Second Round,2021-03-22,USC,6,85,Kansas,3,51
+2021,west,Second Round,2021-03-22,Oregon,7,95,Iowa,2,80
+2021,west,Sweet 16,2021-03-28,Gonzaga,1,83,Creighton,5,65
+2021,west,Sweet 16,2021-03-28,USC,6,82,Oregon,7,68
+2021,west,Elite 8,2021-03-30,Gonzaga,1,85,USC,6,66
+2021,national,Final Four,2021-04-03,Gonzaga,1,93,UCLA,11,90
+2021,national,Final Four,2021-04-03,Baylor,1,78,Houston,2,59
+2021,national,Championship,2021-04-05,Baylor,1,86,Gonzaga,1,70
+2022,east,First Round,2022-03-17,Baylor,1,85,Norfolk State,16,49
+2022,east,First Round,2022-03-17,UNC,8,95,Marquette,9,63
+2022,east,First Round,2022-03-17,Saint Mary's,5,82,Indiana,12,53
+2022,east,First Round,2022-03-17,UCLA,4,57,Akron,13,53
+2022,east,First Round,2022-03-18,Texas,6,81,Virginia Tech,11,73
+2022,east,First Round,2022-03-18,Purdue,3,78,Yale,14,56
+2022,east,First Round,2022-03-17,Murray State,7,92,San Francisco,10,87
+2022,east,First Round,2022-03-17,Saint Peter's,15,85,Kentucky,2,79
+2022,east,Second Round,2022-03-19,UNC,8,93,Baylor,1,86
+2022,east,Second Round,2022-03-19,UCLA,4,72,Saint Mary's,5,56
+2022,east,Second Round,2022-03-20,Purdue,3,81,Texas,6,71
+2022,east,Second Round,2022-03-19,Saint Peter's,15,70,Murray State,7,60
+2022,east,Sweet 16,2022-03-25,UNC,8,73,UCLA,4,66
+2022,east,Sweet 16,2022-03-25,Saint Peter's,15,67,Purdue,3,64
+2022,east,Elite 8,2022-03-27,UNC,8,69,Saint Peter's,15,49
+2022,midwest,First Round,2022-03-17,Kansas,1,83,Texas Southern,16,56
+2022,midwest,First Round,2022-03-17,Creighton,9,72,San Diego State,8,69
+2022,midwest,First Round,2022-03-17,Richmond,12,67,Iowa,5,63
+2022,midwest,First Round,2022-03-17,Providence,4,66,South Dakota State,13,57
+2022,midwest,First Round,2022-03-18,Iowa State,11,59,LSU,6,54
+2022,midwest,First Round,2022-03-18,Wisconsin,3,67,Colgate,14,60
+2022,midwest,First Round,2022-03-18,Miami (FL),10,68,USC,7,66
+2022,midwest,First Round,2022-03-18,Auburn,2,80,Jacksonville State,15,61
+2022,midwest,Second Round,2022-03-19,Kansas,1,79,Creighton,9,72
+2022,midwest,Second Round,2022-03-19,Providence,4,79,Richmond,12,51
+2022,midwest,Second Round,2022-03-20,Iowa State,11,54,Wisconsin,3,49
+2022,midwest,Second Round,2022-03-20,Miami (FL),10,79,Auburn,2,61
+2022,midwest,Sweet 16,2022-03-25,Kansas,1,66,Providence,4,61
+2022,midwest,Sweet 16,2022-03-25,Miami (FL),10,70,Iowa State,11,56
+2022,midwest,Elite 8,2022-03-27,Kansas,1,76,Miami (FL),10,50
+2022,south,First Round,2022-03-18,Arizona,1,87,Wright State,16,70
+2022,south,First Round,2022-03-18,TCU,9,69,Seton Hall,8,42
+2022,south,First Round,2022-03-18,Houston,5,82,UAB,12,68
+2022,south,First Round,2022-03-18,Illinois,4,54,Chattanooga,13,53
+2022,south,First Round,2022-03-17,Michigan,11,75,Colorado State,6,63
+2022,south,First Round,2022-03-17,Tennessee,3,88,Longwood,14,56
+2022,south,First Round,2022-03-18,Ohio State,7,54,Loyola (IL),10,41
+2022,south,First Round,2022-03-18,Villanova,2,80,Delaware,15,60
+2022,south,Second Round,2022-03-20,Arizona,1,85,TCU,9,80
+2022,south,Second Round,2022-03-20,Houston,5,68,Illinois,4,53
+2022,south,Second Round,2022-03-19,Michigan,11,76,Tennessee,3,68
+2022,south,Second Round,2022-03-20,Villanova,2,71,Ohio State,7,61
+2022,south,Sweet 16,2022-03-24,Houston,5,72,Arizona,1,60
+2022,south,Sweet 16,2022-03-24,Villanova,2,63,Michigan,11,55
+2022,south,Elite 8,2022-03-26,Villanova,2,50,Houston,5,44
+2022,west,First Round,2022-03-17,Gonzaga,1,93,Georgia State,16,72
+2022,west,First Round,2022-03-17,Memphis,9,64,Boise State,8,53
+2022,west,First Round,2022-03-17,New Mexico State,12,70,UConn,5,63
+2022,west,First Round,2022-03-17,Arkansas,4,75,Vermont,13,71
+2022,west,First Round,2022-03-18,Notre Dame,11,78,Alabama,6,64
+2022,west,First Round,2022-03-18,Texas Tech,3,97,Montana State,14,62
+2022,west,First Round,2022-03-18,Michigan State,7,74,Davidson,10,73
+2022,west,First Round,2022-03-18,Duke,2,78,Cal State Fullerton,15,61
+2022,west,Second Round,2022-03-19,Gonzaga,1,82,Memphis,9,78
+2022,west,Second Round,2022-03-19,Arkansas,4,53,New Mexico State,12,48
+2022,west,Second Round,2022-03-20,Texas Tech,3,59,Notre Dame,11,53
+2022,west,Second Round,2022-03-20,Duke,2,85,Michigan State,7,76
+2022,west,Sweet 16,2022-03-24,Arkansas,4,74,Gonzaga,1,68
+2022,west,Sweet 16,2022-03-24,Duke,2,78,Texas Tech,3,73
+2022,west,Elite 8,2022-03-26,Duke,2,78,Arkansas,4,69
+2022,national,Final Four,2022-04-02,UNC,8,81,Duke,2,77
+2022,national,Final Four,2022-04-02,Kansas,1,81,Villanova,2,65
+2022,national,Championship,2022-04-04,Kansas,1,72,UNC,8,69
+2023,east,First Round,2023-03-17,FDU,16,63,Purdue,1,58
+2023,east,First Round,2023-03-17,Florida Atlantic,9,66,Memphis,8,65
+2023,east,First Round,2023-03-16,Duke,5,74,Oral Roberts,12,51
+2023,east,First Round,2023-03-16,Tennessee,4,58,Louisiana,13,55
+2023,east,First Round,2023-03-17,Kentucky,6,61,Providence,11,53
+2023,east,First Round,2023-03-17,Kansas State,3,77,Montana State,14,65
+2023,east,First Round,2023-03-17,Michigan State,7,72,USC,10,62
+2023,east,First Round,2023-03-17,Marquette,2,78,Vermont,15,61
+2023,east,Second Round,2023-03-19,Florida Atlantic,9,78,FDU,16,70
+2023,east,Second Round,2023-03-18,Tennessee,4,65,Duke,5,52
+2023,east,Second Round,2023-03-19,Kansas State,3,75,Kentucky,6,69
+2023,east,Second Round,2023-03-19,Michigan State,7,69,Marquette,2,60
+2023,east,Sweet 16,2023-03-23,Florida Atlantic,9,62,Tennessee,4,55
+2023,east,Sweet 16,2023-03-23,Kansas State,3,98,Michigan State,7,93
+2023,east,Elite 8,2023-03-25,Florida Atlantic,9,79,Kansas State,3,76
+2023,midwest,First Round,2023-03-16,Houston,1,63,Northern Kentucky,16,52
+2023,midwest,First Round,2023-03-16,Auburn,9,83,Iowa,8,75
+2023,midwest,First Round,2023-03-17,Miami (FL),5,63,Drake,12,56
+2023,midwest,First Round,2023-03-17,Indiana,4,71,Kent State,13,60
+2023,midwest,First Round,2023-03-17,Pitt,11,59,Iowa State,6,41
+2023,midwest,First Round,2023-03-17,Xavier,3,72,Kennesaw State,14,67
+2023,midwest,First Round,2023-03-16,Penn State,10,76,Texas A&M,7,59
+2023,midwest,First Round,2023-03-16,Texas,2,81,Colgate,15,61
+2023,midwest,Second Round,2023-03-18,Houston,1,81,Auburn,9,64
+2023,midwest,Second Round,2023-03-19,Miami (FL),5,85,Indiana,4,69
+2023,midwest,Second Round,2023-03-19,Xavier,3,84,Pitt,11,73
+2023,midwest,Second Round,2023-03-18,Texas,2,71,Penn State,10,66
+2023,midwest,Sweet 16,2023-03-24,Miami (FL),5,89,Houston,1,75
+2023,midwest,Sweet 16,2023-03-24,Texas,2,83,Xavier,3,71
+2023,midwest,Elite 8,2023-03-26,Miami (FL),5,88,Texas,2,81
+2023,south,First Round,2023-03-16,Alabama,1,96,Texas A&M-Corpus Christi,16,75
+2023,south,First Round,2023-03-16,Maryland,8,67,West Virginia,9,65
+2023,south,First Round,2023-03-16,San Diego State,5,63,College of Charleston,12,57
+2023,south,First Round,2023-03-16,Furman,13,68,Virginia,4,67
+2023,south,First Round,2023-03-17,Creighton,6,72,NC State,11,63
+2023,south,First Round,2023-03-17,Baylor,3,74,UC Santa Barbara,14,56
+2023,south,First Round,2023-03-16,Missouri,7,76,Utah State,10,65
+2023,south,First Round,2023-03-16,Princeton,15,59,Arizona,2,55
+2023,south,Second Round,2023-03-18,Alabama,1,73,Maryland,8,51
+2023,south,Second Round,2023-03-18,San Diego State,5,75,Furman,13,52
+2023,south,Second Round,2023-03-19,Creighton,6,85,Baylor,3,76
+2023,south,Second Round,2023-03-18,Princeton,15,78,Missouri,7,63
+2023,south,Sweet 16,2023-03-24,San Diego State,5,71,Alabama,1,64
+2023,south,Sweet 16,2023-03-24,Creighton,6,86,Princeton,15,75
+2023,south,Elite 8,2023-03-26,San Diego State,5,57,Creighton,6,56
+2023,west,First Round,2023-03-16,Kansas,1,96,Howard,16,68
+2023,west,First Round,2023-03-16,Arkansas,8,73,Illinois,9,63
+2023,west,First Round,2023-03-17,Saint Mary's,5,63,VCU,12,51
+2023,west,First Round,2023-03-17,UConn,4,87,Iona,13,63
+2023,west,First Round,2023-03-17,TCU,6,72,Arizona State,11,70
+2023,west,First Round,2023-03-17,Gonzaga,3,82,Grand Canyon,14,70
+2023,west,First Round,2023-03-16,Northwestern,7,75,Boise State,10,67
+2023,west,First Round,2023-03-16,UCLA,2,86,UNC Asheville,15,53
+2023,west,Second Round,2023-03-18,Arkansas,8,72,Kansas,1,71
+2023,west,Second Round,2023-03-19,UConn,4,70,Saint Mary's,5,55
+2023,west,Second Round,2023-03-19,Gonzaga,3,84,TCU,6,81
+2023,west,Second Round,2023-03-18,UCLA,2,68,Northwestern,7,63
+2023,west,Sweet 16,2023-03-23,UConn,4,88,Arkansas,8,65
+2023,west,Sweet 16,2023-03-23,Gonzaga,3,79,UCLA,2,76
+2023,west,Elite 8,2023-03-25,UConn,4,82,Gonzaga,3,54
+2023,national,Final Four,2023-04-01,San Diego State,5,72,Florida Atlantic,9,71
+2023,national,Final Four,2023-04-01,UConn,4,72,Miami (FL),5,59
+2023,national,Championship,2023-04-03,UConn,4,76,San Diego State,5,59
+2024,east,First Round,2024-03-22,UConn,1,91,Stetson,16,52
+2024,east,First Round,2024-03-22,Northwestern,9,77,Florida Atlantic,8,65
+2024,east,First Round,2024-03-22,San Diego State,5,69,UAB,12,65
+2024,east,First Round,2024-03-22,Yale,13,78,Auburn,4,76
+2024,east,First Round,2024-03-21,Duquesne,11,71,BYU,6,67
+2024,east,First Round,2024-03-21,Illinois,3,85,Morehead State,14,69
+2024,east,First Round,2024-03-21,Washington State,7,66,Drake,10,61
+2024,east,First Round,2024-03-21,Iowa State,2,82,South Dakota State,15,65
+2024,east,Second Round,2024-03-24,UConn,1,75,Northwestern,9,58
+2024,east,Second Round,2024-03-24,San Diego State,5,85,Yale,13,57
+2024,east,Second Round,2024-03-23,Illinois,3,89,Duquesne,11,63
+2024,east,Second Round,2024-03-23,Iowa State,2,67,Washington State,7,56
+2024,east,Sweet 16,2024-03-28,UConn,1,82,San Diego State,5,52
+2024,east,Sweet 16,2024-03-28,Illinois,3,72,Iowa State,2,69
+2024,east,Elite 8,2024-03-30,UConn,1,77,Illinois,3,52
+2024,midwest,First Round,2024-03-22,Purdue,1,78,Grambling,16,50
+2024,midwest,First Round,2024-03-22,Utah State,8,88,TCU,9,72
+2024,midwest,First Round,2024-03-21,Gonzaga,5,86,McNeese,12,65
+2024,midwest,First Round,2024-03-21,Kansas,4,93,Samford,13,89
+2024,midwest,First Round,2024-03-21,Oregon,11,87,South Carolina,6,73
+2024,midwest,First Round,2024-03-21,Creighton,3,77,Akron,14,60
+2024,midwest,First Round,2024-03-21,Texas,7,56,Colorado State,10,44
+2024,midwest,First Round,2024-03-21,Tennessee,2,83,Saint Peter's,15,49
+2024,midwest,Second Round,2024-03-24,Purdue,1,106,Utah State,8,67
+2024,midwest,Second Round,2024-03-23,Gonzaga,5,89,Kansas,4,68
+2024,midwest,Second Round,2024-03-23,Creighton,3,86,Oregon,11,73
+2024,midwest,Second Round,2024-03-23,Tennessee,2,62,Texas,7,58
+2024,midwest,Sweet 16,2024-03-29,Purdue,1,80,Gonzaga,5,68
+2024,midwest,Sweet 16,2024-03-29,Tennessee,2,82,Creighton,3,75
+2024,midwest,Elite 8,2024-03-31,Purdue,1,72,Tennessee,2,66
+2024,south,First Round,2024-03-22,Houston,1,86,Longwood,16,46
+2024,south,First Round,2024-03-22,Texas A&M,9,98,Nebraska,8,83
+2024,south,First Round,2024-03-22,James Madison,12,72,Wisconsin,5,61
+2024,south,First Round,2024-03-22,Duke,4,64,Vermont,13,47
+2024,south,First Round,2024-03-21,NC State,11,80,Texas Tech,6,67
+2024,south,First Round,2024-03-21,Oakland,14,80,Kentucky,3,76
+2024,south,First Round,2024-03-22,Colorado,10,102,Florida,7,100
+2024,south,First Round,2024-03-22,Marquette,2,87,Western Kentucky,15,69
+2024,south,Second Round,2024-03-24,Houston,1,100,Texas A&M,9,95
+2024,south,Second Round,2024-03-24,Duke,4,93,James Madison,12,55
+2024,south,Second Round,2024-03-23,NC State,11,79,Oakland,14,73
+2024,south,Second Round,2024-03-24,Marquette,2,81,Colorado,10,77
+2024,south,Sweet 16,2024-03-29,Duke,4,54,Houston,1,51
+2024,south,Sweet 16,2024-03-29,NC State,11,67,Marquette,2,58
+2024,south,Elite 8,2024-03-31,NC State,11,76,Duke,4,64
+2024,west,First Round,2024-03-21,UNC,1,90,Wagner,16,62
+2024,west,First Round,2024-03-21,Michigan State,9,69,Mississippi State,8,51
+2024,west,First Round,2024-03-22,Grand Canyon,12,75,Saint Mary's,5,66
+2024,west,First Round,2024-03-22,Alabama,4,109,College of Charleston,13,96
+2024,west,First Round,2024-03-22,Clemson,6,77,New Mexico,11,56
+2024,west,First Round,2024-03-22,Baylor,3,92,Colgate,14,67
+2024,west,First Round,2024-03-21,Dayton,7,63,Nevada,10,60
+2024,west,First Round,2024-03-21,Arizona,2,85,Long Beach State,15,65
+2024,west,Second Round,2024-03-23,UNC,1,85,Michigan State,9,69
+2024,west,Second Round,2024-03-24,Alabama,4,72,Grand Canyon,12,61
+2024,west,Second Round,2024-03-24,Clemson,6,72,Baylor,3,64
+2024,west,Second Round,2024-03-23,Arizona,2,78,Dayton,7,68
+2024,west,Sweet 16,2024-03-28,Alabama,4,89,UNC,1,87
+2024,west,Sweet 16,2024-03-28,Clemson,6,77,Arizona,2,72
+2024,west,Elite 8,2024-03-30,Alabama,4,89,Clemson,6,82
+2024,national,Final Four,2024-04-06,UConn,1,86,Alabama,4,72
+2024,national,Final Four,2024-04-06,Purdue,1,63,NC State,11,50
+2024,national,Championship,2024-04-08,UConn,1,75,Purdue,1,60
+2025,east,First Round,2025-03-21,Duke,1,93,Mount St. Mary's,16,49
+2025,east,First Round,2025-03-21,Baylor,9,75,Mississippi State,8,72
+2025,east,First Round,2025-03-21,Oregon,5,81,Liberty,12,52
+2025,east,First Round,2025-03-21,Arizona,4,93,Akron,13,65
+2025,east,First Round,2025-03-20,BYU,6,80,VCU,11,71
+2025,east,First Round,2025-03-20,Wisconsin,3,85,Montana,14,66
+2025,east,First Round,2025-03-21,Saint Mary's,7,59,Vanderbilt,10,56
+2025,east,First Round,2025-03-21,Alabama,2,90,Robert Morris,15,81
+2025,east,Second Round,2025-03-23,Duke,1,89,Baylor,9,66
+2025,east,Second Round,2025-03-23,Arizona,4,87,Oregon,5,83
+2025,east,Second Round,2025-03-22,BYU,6,91,Wisconsin,3,89
+2025,east,Second Round,2025-03-23,Alabama,2,80,Saint Mary's,7,66
+2025,east,Sweet 16,2025-03-27,Duke,1,100,Arizona,4,93
+2025,east,Sweet 16,2025-03-27,Alabama,2,113,BYU,6,88
+2025,east,Elite 8,2025-03-29,Duke,1,85,Alabama,2,65
+2025,midwest,First Round,2025-03-20,Houston,1,78,SIU-Edwardsville,16,40
+2025,midwest,First Round,2025-03-20,Gonzaga,8,89,Georgia,9,68
+2025,midwest,First Round,2025-03-20,McNeese,12,69,Clemson,5,67
+2025,midwest,First Round,2025-03-20,Purdue,4,75,High Point,13,63
+2025,midwest,First Round,2025-03-21,Illinois,6,86,Xavier,11,73
+2025,midwest,First Round,2025-03-21,Kentucky,3,76,Troy,14,57
+2025,midwest,First Round,2025-03-20,UCLA,7,72,Utah State,10,47
+2025,midwest,First Round,2025-03-20,Tennessee,2,77,Wofford,15,62
+2025,midwest,Second Round,2025-03-22,Houston,1,81,Gonzaga,8,76
+2025,midwest,Second Round,2025-03-22,Purdue,4,76,McNeese,12,62
+2025,midwest,Second Round,2025-03-23,Kentucky,3,84,Illinois,6,75
+2025,midwest,Second Round,2025-03-22,Tennessee,2,67,UCLA,7,58
+2025,midwest,Sweet 16,2025-03-28,Houston,1,62,Purdue,4,60
+2025,midwest,Sweet 16,2025-03-28,Tennessee,2,78,Kentucky,3,65
+2025,midwest,Elite 8,2025-03-30,Houston,1,69,Tennessee,2,50
+2025,south,First Round,2025-03-20,Auburn,1,83,Alabama State,16,63
+2025,south,First Round,2025-03-20,Creighton,9,89,Louisville,8,75
+2025,south,First Round,2025-03-20,Michigan,5,68,UC San Diego,12,65
+2025,south,First Round,2025-03-20,Texas A&M,4,80,Yale,13,71
+2025,south,First Round,2025-03-21,Ole Miss,6,71,UNC,11,64
+2025,south,First Round,2025-03-21,Iowa State,3,82,Lipscomb,14,55
+2025,south,First Round,2025-03-21,New Mexico,10,75,Marquette,7,66
+2025,south,First Round,2025-03-21,Michigan State,2,87,Bryant,15,62
+2025,south,Second Round,2025-03-22,Auburn,1,82,Creighton,9,70
+2025,south,Second Round,2025-03-22,Michigan,5,91,Texas A&M,4,79
+2025,south,Second Round,2025-03-23,Ole Miss,6,91,Iowa State,3,78
+2025,south,Second Round,2025-03-23,Michigan State,2,71,New Mexico,10,63
+2025,south,Sweet 16,2025-03-28,Auburn,1,78,Michigan,5,65
+2025,south,Sweet 16,2025-03-28,Michigan State,2,73,Ole Miss,6,70
+2025,south,Elite 8,2025-03-30,Auburn,1,70,Michigan State,2,64
+2025,west,First Round,2025-03-21,Florida,1,95,Norfolk State,16,69
+2025,west,First Round,2025-03-21,UConn,8,67,Oklahoma,9,59
+2025,west,First Round,2025-03-21,Colorado State,12,78,Memphis,5,70
+2025,west,First Round,2025-03-21,Maryland,4,81,Grand Canyon,13,49
+2025,west,First Round,2025-03-20,Drake,11,67,Missouri,6,57
+2025,west,First Round,2025-03-20,Texas Tech,3,82,UNC Wilmington,14,72
+2025,west,First Round,2025-03-20,Arkansas,10,79,Kansas,7,72
+2025,west,First Round,2025-03-20,St. John's (NY),2,83,Omaha,15,53
+2025,west,Second Round,2025-03-23,Florida,1,77,UConn,8,75
+2025,west,Second Round,2025-03-23,Maryland,4,72,Colorado State,12,71
+2025,west,Second Round,2025-03-22,Texas Tech,3,77,Drake,11,64
+2025,west,Second Round,2025-03-22,Arkansas,10,75,St. John's (NY),2,66
+2025,west,Sweet 16,2025-03-27,Florida,1,87,Maryland,4,71
+2025,west,Sweet 16,2025-03-27,Texas Tech,3,85,Arkansas,10,83
+2025,west,Elite 8,2025-03-29,Florida,1,84,Texas Tech,3,79
+2025,national,Final Four,2025-04-05,Houston,1,70,Duke,1,67
+2025,national,Final Four,2025-04-05,Florida,1,79,Auburn,1,73
+2025,national,Championship,2025-04-07,Florida,1,65,Houston,1,63
+2026,east,First Round,2026-03-19,Duke,1,71,Siena,16,65
+2026,east,First Round,2026-03-19,TCU,9,66,Ohio State,8,64
+2026,east,First Round,2026-03-20,St. John's (NY),5,79,Northern Iowa,12,53
+2026,east,First Round,2026-03-20,Kansas,4,68,California Baptist,13,60
+2026,east,First Round,2026-03-19,Louisville,6,83,South Florida,11,79
+2026,east,First Round,2026-03-19,Michigan State,3,92,North Dakota State,14,67
+2026,east,First Round,2026-03-20,UCLA,7,75,UCF,10,71
+2026,east,First Round,2026-03-20,UConn,2,82,Furman,15,71
+2026,east,Second Round,2026-03-21,Duke,1,81,TCU,9,58
+2026,east,Second Round,2026-03-22,St. John's (NY),5,67,Kansas,4,65
+2026,east,Second Round,2026-03-21,Michigan State,3,77,Louisville,6,69
+2026,east,Second Round,2026-03-22,UConn,2,73,UCLA,7,57
+2026,east,Sweet 16,2026-03-27,Duke,1,80,St. John's (NY),5,75
+2026,east,Sweet 16,2026-03-27,UConn,2,67,Michigan State,3,63
+2026,east,Elite 8,2026-03-29,UConn,2,73,Duke,1,72
+2026,midwest,First Round,2026-03-19,Michigan,1,101,Howard,16,80
+2026,midwest,First Round,2026-03-19,Saint Louis,9,102,Georgia,8,77
+2026,midwest,First Round,2026-03-20,Texas Tech,5,91,Akron,12,71
+2026,midwest,First Round,2026-03-20,Alabama,4,90,Hofstra,13,70
+2026,midwest,First Round,2026-03-20,Tennessee,6,78,Miami (OH),11,56
+2026,midwest,First Round,2026-03-20,Virginia,3,82,Wright State,14,73
+2026,midwest,First Round,2026-03-20,Kentucky,7,89,Santa Clara,10,84
+2026,midwest,First Round,2026-03-20,Iowa State,2,108,Tennessee State,15,74
+2026,midwest,Second Round,2026-03-21,Michigan,1,95,Saint Louis,9,72
+2026,midwest,Second Round,2026-03-22,Alabama,4,90,Texas Tech,5,65
+2026,midwest,Second Round,2026-03-22,Tennessee,6,79,Virginia,3,72
+2026,midwest,Second Round,2026-03-22,Iowa State,2,82,Kentucky,7,63
+2026,midwest,Sweet 16,2026-03-27,Michigan,1,90,Alabama,4,77
+2026,midwest,Sweet 16,2026-03-27,Tennessee,6,76,Iowa State,2,62
+2026,midwest,Elite 8,2026-03-29,Michigan,1,95,Tennessee,6,62
+2026,south,First Round,2026-03-20,Florida,1,114,Prairie View A&M,16,55
+2026,south,First Round,2026-03-20,Iowa,9,67,Clemson,8,61
+2026,south,First Round,2026-03-19,Vanderbilt,5,78,McNeese,12,68
+2026,south,First Round,2026-03-19,Nebraska,4,76,Troy,13,47
+2026,south,First Round,2026-03-19,VCU,11,82,UNC,6,78
+2026,south,First Round,2026-03-19,Illinois,3,105,Penn,14,70
+2026,south,First Round,2026-03-19,Texas A&M,10,63,Saint Mary's,7,50
+2026,south,First Round,2026-03-19,Houston,2,78,Idaho,15,47
+2026,south,Second Round,2026-03-22,Iowa,9,73,Florida,1,72
+2026,south,Second Round,2026-03-21,Nebraska,4,74,Vanderbilt,5,72
+2026,south,Second Round,2026-03-21,Illinois,3,76,VCU,11,55
+2026,south,Second Round,2026-03-21,Houston,2,88,Texas A&M,10,57
+2026,south,Sweet 16,2026-03-26,Iowa,9,77,Nebraska,4,71
+2026,south,Sweet 16,2026-03-26,Illinois,3,65,Houston,2,55
+2026,south,Elite 8,2026-03-28,Illinois,3,71,Iowa,9,59
+2026,west,First Round,2026-03-20,Arizona,1,92,LIU,16,58
+2026,west,First Round,2026-03-20,Utah State,9,86,Villanova,8,76
+2026,west,First Round,2026-03-19,High Point,12,83,Wisconsin,5,82
+2026,west,First Round,2026-03-19,Arkansas,4,97,Hawaii,13,78
+2026,west,First Round,2026-03-19,Texas,11,79,BYU,6,71
+2026,west,First Round,2026-03-19,Gonzaga,3,73,Kennesaw State,14,64
+2026,west,First Round,2026-03-20,Miami (FL),7,80,Missouri,10,66
+2026,west,First Round,2026-03-20,Purdue,2,104,Queens (NC),15,71
+2026,west,Second Round,2026-03-22,Arizona,1,78,Utah State,9,66
+2026,west,Second Round,2026-03-21,Arkansas,4,94,High Point,12,88
+2026,west,Second Round,2026-03-21,Texas,11,74,Gonzaga,3,68
+2026,west,Second Round,2026-03-22,Purdue,2,79,Miami (FL),7,69
+2026,west,Sweet 16,2026-03-26,Arizona,1,109,Arkansas,4,88
+2026,west,Sweet 16,2026-03-26,Purdue,2,79,Texas,11,77
+2026,west,Elite 8,2026-03-28,Arizona,1,79,Purdue,2,64
+2026,national,Final Four,2026-04-04,UConn,2,71,Illinois,3,62
+2026,national,Final Four,2026-04-04,Michigan,1,91,Arizona,1,73
+2026,national,Championship,2026-04-06,Michigan,1,69,UConn,2,63
