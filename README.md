@@ -1,20 +1,20 @@
-## Predictive Weight Optimisation: A Machine Learning Approach to Maximising Expected Value in Men’s March Madness Brackets
+## Predictive Weight Optimization: A Machine Learning Approach to Maximizing Expected Value in Men’s March Madness Brackets
 
 Team members: Bryce Clement, Christian Rutherford, Devon Diaco
 
 ### Overview
-This project models the 2026 NCAA Division I Men’s Basketball tournament (March Madness) as a 63‑game probability tree and builds a bracket optimiser aimed at maximising expected value under the ESPN Tournament Challenge scoring system, where later rounds are weighted more heavily.
+This project models the 2026 NCAA Division I Men’s Basketball tournament (March Madness) as a 63‑game probability tree and builds a bracket optimizer aimed at maximizing expected value under the ESPN Tournament Challenge scoring system, where later rounds are weighted more heavily.
 
 ### Objectives
-- Predict game outcomes while optimising feature weights for bracket EV rather than single-game accuracy.
+- Predict game outcomes while optimizing feature weights for bracket EV rather than single-game accuracy.
 - Identify leverage opportunities where model probabilities exceed public sentiment.
 - Simulate brackets to target high‑percentile finishes in large pools.
 
-### Modelling approach
-- Feature engineering: historical tournament data (2010–2026, excluding 2020), normalised efficiency metrics, strength of schedule, and a momentum feature with late‑season decay weighting.
+### Modeling approach
+- Feature engineering: historical tournament data (2010–2026, excluding 2020), normalized efficiency metrics, strength of schedule, and a momentum feature with late‑season decay weighting.
 - Baselines: logistic regression and random forest for calibrated win probabilities and non‑linear feature importance.
-- Gradient boosting: XGBoost, LightGBM, and CatBoost to refine weights and minimise log loss.
-- Expected value optimisation: incorporate public pick data to prioritise high‑EV upsets.
+- Gradient boosting: XGBoost, LightGBM, and CatBoost to refine weights and minimize log loss.
+- Expected value optimization: incorporate public pick data to prioritize high‑EV upsets.
 - Monte Carlo simulation: thousands of tournament runs to select brackets with the best 99th‑percentile likelihood.
 
 ### Results at a glance
@@ -66,7 +66,7 @@ KenPom scraping requires credentials. Provide them via `KENPOM_EMAIL`/`KENPOM_PA
 ### Key outputs
 - Processed datasets in [data/processed/](data/processed/)
 - Trained models in [models/](models/)
-- Backtest and optimisation results in [data/processed/](data/processed/)
+- Backtest and optimization results in [data/processed/](data/processed/)
 
 ### References
 - https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
